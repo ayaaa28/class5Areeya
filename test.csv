@@ -1,0 +1,729 @@
+Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisiting,NumberOfFollowups,ProductPitched,PreferredPropertyStar,MaritalStatus,NumberOfTrips,Passport,PitchSatisfactionScore,OwnCar,NumberOfChildrenVisiting,Designation,MonthlyIncome,ProdTaken
+51.0,Company Invited,3,19.0,Small Business,Female,4,4.0,Standard,3.0,Unmarried,6.0,0,5,0,1.0,Senior Manager,27886.0,0
+35.0,Company Invited,1,10.0,Salaried,Male,3,4.0,Deluxe,3.0,Unmarried,2.0,0,2,1,1.0,Manager,26434.0,0
+35.0,Company Invited,1,24.0,Large Business,Male,3,5.0,Basic,3.0,Married,2.0,1,5,1,2.0,Executive,27178.0,1
+31.0,Self Enquiry,1,9.0,Salaried,Male,5,5.0,Deluxe,3.0,Married,3.0,0,4,1,2.0,Manager,22830.0,0
+25.0,Company Invited,1,11.0,Salaried,Male,3,5.0,Basic,3.0,Married,2.0,0,3,0,2.0,Executive,21840.0,0
+53.0,Company Invited,1,35.0,Small Business,Female,3,2.0,Super Deluxe,3.0,Divorced,4.0,1,4,0,1.0,AVP,31925.0,0
+44.0,Company Invited,1,11.0,Salaried,Male,2,4.0,Basic,3.0,Single,4.0,0,1,0,1.0,Executive,18162.0,0
+50.0,Self Enquiry,3,18.0,Small Business,Female,3,4.0,Standard,3.0,Divorced,3.0,0,4,0,2.0,Senior Manager,26332.0,1
+30.0,Company Invited,3,32.0,Small Business,Female,2,4.0,Deluxe,5.0,Unmarried,6.0,0,1,0,1.0,Manager,21696.0,1
+29.0,Self Enquiry,1,9.0,Salaried,Male,4,4.0,Basic,3.0,Unmarried,4.0,0,4,1,2.0,Executive,22163.0,1
+35.0,Self Enquiry,1,24.0,Salaried,Female,3,4.0,Basic,3.0,Unmarried,3.0,1,5,1,1.0,Executive,23216.0,1
+37.0,Self Enquiry,1,21.0,Salaried,Male,4,4.0,Deluxe,3.0,Married,2.0,1,5,1,1.0,Manager,25264.0,0
+27.0,Company Invited,1,16.0,Salaried,Male,2,3.0,Standard,5.0,Married,2.0,0,3,1,0.0,Senior Manager,23793.0,0
+38.0,Self Enquiry,1,14.0,Small Business,Male,4,4.0,Deluxe,5.0,Married,7.0,1,3,0,1.0,Manager,22962.0,0
+60.0,Self Enquiry,3,22.0,Small Business,Male,2,3.0,Deluxe,5.0,Single,1.0,0,4,1,0.0,Manager,20405.0,0
+24.0,Self Enquiry,1,6.0,Small Business,Male,3,3.0,Basic,3.0,Married,3.0,1,3,0,2.0,Executive,17293.0,1
+21.0,Self Enquiry,1,11.0,Large Business,Male,3,4.0,Basic,5.0,Unmarried,3.0,0,3,1,1.0,Executive,21651.0,1
+39.0,Company Invited,1,28.0,Small Business,Female,2,3.0,Standard,5.0,Unmarried,2.0,1,5,1,0.0,Senior Manager,25880.0,0
+26.0,Self Enquiry,2,31.0,Salaried,Female,3,3.0,Basic,3.0,Married,2.0,0,4,1,1.0,Executive,17942.0,0
+52.0,Self Enquiry,1,10.0,Small Business,Female,4,4.0,Super Deluxe,4.0,Single,5.0,0,5,0,2.0,AVP,32412.0,0
+38.0,Self Enquiry,3,7.0,Salaried,Male,3,5.0,Standard,3.0,Married,7.0,0,1,1,2.0,Senior Manager,29287.0,1
+36.0,Company Invited,1,9.0,Small Business,Female,3,4.0,Deluxe,4.0,Unmarried,7.0,0,2,1,1.0,Manager,23103.0,0
+31.0,Company Invited,1,11.0,Large Business,Male,3,4.0,Basic,3.0,Single,2.0,1,4,1,1.0,Executive,20963.0,1
+59.0,Company Invited,1,9.0,Salaried,Male,3,5.0,Basic,3.0,Married,2.0,1,1,0,1.0,Executive,21058.0,1
+39.0,Self Enquiry,1,9.0,Salaried,Male,3,4.0,Deluxe,3.0,Married,2.0,0,1,1,2.0,Manager,25231.0,0
+35.0,Self Enquiry,1,22.0,Small Business,Male,2,2.0,Basic,4.0,Divorced,1.0,0,3,1,1.0,Executive,17426.0,0
+56.0,Company Invited,1,15.0,Small Business,Female,3,3.0,Basic,3.0,Divorced,3.0,0,2,0,0.0,Executive,17942.0,0
+29.0,Self Enquiry,1,16.0,Small Business,Male,4,4.0,Basic,3.0,Divorced,3.0,0,2,1,2.0,Executive,20748.0,0
+41.38454061430372,Company Invited,1,25.19227030715186,Salaried,Female,3,2.0,Basic,3.5384864618987617,Married,6.653783845253095,0,2,0,1.0,Executive,21432.69210830481,1
+24.0,Company Invited,1,10.0,Salaried,Male,2,4.0,Basic,3.0,Divorced,1.0,0,3,0,0.0,Executive,18162.0,0
+48.92461253254966,Company Invited,1,13.372504634606802,Large Business,Male,2,3.2594234334312926,Basic,3.0,Married,1.0,1,2,0,0.2594234334312925,Executive,17454.773837597648,1
+34.0,Self Enquiry,1,35.0,Salaried,Male,4,4.0,Deluxe,3.0,Married,3.0,1,1,1,1.0,Manager,23885.0,0
+27.13978173221446,Self Enquiry,1,25.86021826778554,Small Business,Male,2,3.3799272440714865,Basic,3.0,Married,2.0,0,4,0,0.0,Executive,17381.559126928856,1
+35.0,Company Invited,1,24.0,Salaried,Male,2,3.0,Standard,3.0,Unmarried,3.0,0,3,0,0.0,Senior Manager,24362.0,0
+31.0,Self Enquiry,1,9.0,Salaried,Male,3,5.0,Deluxe,3.0,Divorced,3.0,0,4,1,1.0,Manager,22830.0,0
+46.0,Self Enquiry,3,16.0,Salaried,Female,3,3.0,Standard,4.0,Married,6.0,0,1,0,2.0,Senior Manager,22314.0,1
+38.0,Self Enquiry,3,8.0,Salaried,Female,2,3.0,Deluxe,5.0,Married,4.0,0,4,0,1.0,Manager,21893.0,0
+24.008195017352648,Self Enquiry,2,8.331512218366079,Salaried,Female,3,4.6657561091830395,Basic,3.0,Single,2.665756109183039,0,2,0,1.665756109183039,Executive,20726.679414471437,1
+38.0,Self Enquiry,3,23.0,Small Business,Male,4,5.0,Deluxe,3.0,Married,6.0,0,5,1,1.0,Manager,25012.0,0
+42.0,Self Enquiry,1,12.0,Salaried,Male,3,2.0,Deluxe,4.0,Unmarried,5.0,0,5,1,1.0,Manager,25548.0,0
+32.45188955862559,Company Invited,2,26.88917168969191,Small Business,Male,2,4.0,King,4.274055220687206,Unmarried,3.274055220687206,1,4,0,0.548110441374412,Manager,23378.08161345519,1
+27.0,Company Invited,1,10.0,Large Business,Male,4,4.0,Basic,5.0,Unmarried,2.0,0,3,0,3.0,Executive,21780.0,1
+26.0,Self Enquiry,3,15.0,Salaried,Male,3,2.0,Deluxe,4.0,Married,2.0,0,4,1,1.0,Manager,23529.0,0
+42.0,Company Invited,1,32.0,Small Business,Female,2,3.0,Standard,5.0,Divorced,4.0,1,3,0,1.0,Senior Manager,28191.0,0
+44.0,Company Invited,2,6.0,Salaried,Male,2,3.0,Deluxe,3.0,Married,5.0,1,5,1,1.0,Manager,20743.0,0
+34.0,Self Enquiry,1,6.0,Salaried,Male,2,3.0,Basic,3.0,Married,2.0,0,3,1,1.0,Executive,17691.0,0
+26.0,Self Enquiry,2,9.0,Salaried,Female,3,4.0,Basic,4.0,Married,6.0,0,4,0,1.0,Executive,20865.0,0
+41.0,Self Enquiry,3,17.0,Small Business,Male,4,5.0,Standard,4.0,Married,4.0,0,4,0,1.0,Senior Manager,28383.0,0
+29.0,Self Enquiry,3,29.0,Salaried,Female,2,4.0,Standard,5.0,Divorced,2.0,0,3,0,0.3456959935039194,Senior Manager,22336.0,1
+29.0,Self Enquiry,1,14.0,Salaried,Male,4,4.0,Basic,5.0,Unmarried,5.0,1,3,0,3.0,Executive,25352.0,1
+27.0,Company Invited,1,7.0,Salaried,Female,3,4.0,Deluxe,4.0,Married,3.0,0,5,0,2.0,Manager,25075.0,0
+53.0,Self Enquiry,3,12.0,Salaried,Male,4,4.0,Standard,4.0,Unmarried,2.0,1,4,1,2.0,Senior Manager,27124.0,1
+43.0,Self Enquiry,3,8.0,Small Business,Male,3,3.0,Deluxe,3.0,Married,2.0,1,3,0,0.0,Manager,22847.0,0
+41.0,Self Enquiry,3,15.0,Salaried,Male,3,3.0,Standard,3.0,Married,4.0,1,1,0,1.0,Senior Manager,23189.0,0
+53.630012882300065,Company Invited,2,16.64375805143754,Large Business,Female,2,3.671248389712492,Deluxe,3.0,Married,3.684993558849967,1,5,0,0.6712483897124918,Manager,25486.492561190924,1
+41.94182133732847,Company Invited,1,11.956366002996354,Salaried,Male,4,5.0,Basic,4.970910668664236,Married,8.0,0,3,0,2.014544665667882,Executive,20784.752740683645,1
+47.427686776357895,Company Invited,3,33.59120484025564,Salaried,Female,4,2.2452770958466157,Deluxe,3.0,Single,5.836481936102256,1,3,0,2.0,Manager,25073.61009645687,1
+32.614616022536154,Company Invited,1,14.385383977463846,Salaried,Female,3,5.0,Basic,3.6926919887319225,Single,4.078075966195767,1,5,1,1.3463459943659613,Executive,21076.770767954928,1
+20.0,Self Enquiry,1,16.0,Small Business,Male,2,3.0,Basic,3.0,Single,2.0,1,5,1,1.0,Executive,16009.0,1
+37.0,Self Enquiry,1,7.0,Salaried,Female,3,4.0,Deluxe,4.0,Married,2.0,0,5,1,2.0,Manager,23906.0,0
+29.325151910041804,Company Invited,1,13.487727865062702,Large Business,Female,2,2.9729040074965165,Basic,3.0270959925034835,Married,4.054191985006967,1,3,1,0.0270959925034834,AVP,31144.26780239261,1
+50.0,Self Enquiry,1,34.0,Small Business,Male,3,1.0,Basic,3.0,Married,2.0,1,1,0,1.0,Executive,18221.0,0
+36.0,Self Enquiry,3,7.0,Small Business,Male,3,5.0,Deluxe,5.0,Unmarried,2.0,0,1,1,2.0,Manager,22990.0,0
+43.0,Self Enquiry,1,20.0,Salaried,Male,3,3.0,Super Deluxe,5.0,Divorced,7.0,0,5,1,0.0,AVP,32159.0,0
+26.0,Self Enquiry,1,7.0,Salaried,Female,4,4.0,Deluxe,3.0,Married,2.0,0,3,1,2.0,Manager,23576.0,0
+24.74873962843239,Company Invited,1,10.470483010905465,Small Business,Female,2,4.0,Basic,4.406407546445951,Married,2.0,0,3,0,0.8128150928919027,Executive,17597.625630185783,1
+38.0,Company Invited,3,16.0,Small Business,Male,4,4.0,Standard,4.0,Married,3.0,0,1,1,3.0,Senior Manager,27512.0,0
+34.0,Self Enquiry,2,10.0,Salaried,Male,3,4.0,Basic,4.0,Married,5.0,1,5,0,2.0,Executive,20955.0,0
+21.0,Company Invited,1,13.0,Salaried,Female,4,5.0,Basic,3.0,Unmarried,3.0,1,2,1,2.0,Executive,21604.0,1
+44.0,Company Invited,1,14.0,Small Business,Male,3,2.0,Basic,3.0,Married,6.0,0,4,1,1.0,Executive,20767.0,0
+56.0,Self Enquiry,1,30.0,Salaried,Male,3,3.0,Basic,3.0,Single,2.0,0,3,0,0.0,Executive,17587.0,1
+19.0,Self Enquiry,3,27.0,Salaried,Male,2,4.0,Basic,4.0,Single,2.0,1,1,0,1.0,Executive,17121.0,1
+25.565398559562883,Company Invited,2,22.565398559562883,Salaried,Female,2,2.913079711912576,Basic,3.086920288087424,Married,1.0869202880874238,0,5,0,1.0,Executive,17738.826992797814,1
+55.0,Company Invited,3,8.0,Salaried,Female,2,4.0,Basic,3.0,Single,1.0,0,5,0,0.0,Executive,28577.0,1
+26.0,Self Enquiry,1,23.158358506917217,Small Business,Male,2,3.0,Basic,3.7683282986165567,Married,2.7683282986165567,0,2,1,1.0,Executive,17373.926686805535,1
+25.0,Self Enquiry,1,7.0,Small Business,Male,4,4.0,Basic,3.0,Married,4.0,1,3,0,3.0,Executive,20971.0,1
+32.0,Company Invited,1,13.0,Salaried,Male,3,2.0,Basic,4.0,Divorced,2.0,0,2,0,1.0,Executive,17794.0,0
+43.0,Company Invited,1,15.0,Small Business,Male,3,3.0,Deluxe,3.0,Married,4.0,1,3,1,2.0,Manager,20679.0,0
+51.0,Company Invited,3,15.0,Large Business,Male,3,4.0,Deluxe,3.0,Divorced,5.0,1,5,0,1.0,Manager,25474.0,1
+35.0,Self Enquiry,1,15.0,Small Business,Female,4,4.0,Deluxe,3.0,Unmarried,5.0,0,4,1,2.0,Manager,24820.0,0
+32.0,Self Enquiry,1,9.0,Salaried,Male,3,4.0,Basic,3.0,Married,2.0,1,4,1,2.0,Executive,21373.0,0
+46.0,Self Enquiry,3,11.0,Salaried,Female,2,4.0,Deluxe,5.0,Married,6.0,1,4,0,1.0,Manager,23684.0,0
+36.0,Company Invited,1,24.0,Salaried,Male,3,3.0,Deluxe,3.0,Unmarried,3.0,0,3,0,1.0,Manager,22779.0,0
+30.0,Self Enquiry,1,13.0,Small Business,Male,2,4.0,Basic,4.0,Married,2.0,0,5,0,0.0,Executive,17141.0,0
+48.0,Company Invited,1,21.0,Large Business,Male,4,4.0,Deluxe,4.0,Married,2.0,0,3,0,3.0,Manager,24145.0,0
+36.94362450334907,Self Enquiry,3,10.39462847655649,Salaried,Male,3,5.0,Standard,3.1127509933018542,Married,2.943624503349073,0,1,1,1.0563754966509271,Senior Manager,29001.928865563634,1
+47.0,Company Invited,1,7.0,Small Business,Male,3,5.0,Standard,5.0,Married,4.0,1,1,1,2.0,Senior Manager,29351.0,0
+56.0,Self Enquiry,3,17.0,Small Business,Female,2,4.0,Deluxe,5.0,Married,5.0,0,5,0,1.0,Manager,20380.0,0
+41.0,Self Enquiry,3,6.0,Salaried,Female,3,3.0,Deluxe,3.0,Single,1.0,1,2,1,0.0,Manager,20993.0,1
+40.0,Self Enquiry,1,8.0,Small Business,Male,2,3.0,King,3.0,Married,1.0,0,5,0,0.0,VP,34436.0,0
+40.0,Self Enquiry,1,13.0,Small Business,Male,4,4.0,Basic,5.0,Divorced,2.0,1,2,1,2.0,Executive,21082.0,1
+30.689516038721955,Company Invited,3,23.036291496614567,Salaried,Female,2,4.344758019360978,Deluxe,4.655241980639022,Unmarried,6.344758019360978,0,2,0,1.0,Manager,21709.44556275508,1
+23.876410520563244,Company Invited,2,16.03089736985919,Small Business,Female,3,4.030897369859189,Basic,4.969102630140811,Married,3.0,0,5,0,1.0617947397183771,Executive,20470.131918520285,1
+36.0,Company Invited,1,9.0,Salaried,Female,4,4.0,Deluxe,5.0,Married,4.0,0,4,0,1.0,Manager,23771.0,0
+25.0,Self Enquiry,1,25.0,Salaried,Male,3,4.0,Basic,3.0,Married,2.0,0,4,0,1.0,Executive,21452.0,0
+38.0,Company Invited,1,8.0,Salaried,Female,3,1.0,Deluxe,5.0,Single,7.0,1,1,0,0.0,Manager,20980.0,0
+38.0,Self Enquiry,1,20.0,Small Business,Male,3,4.0,Deluxe,3.0,Married,3.0,0,1,0,1.0,Manager,22963.0,0
+31.0,Company Invited,1,30.0,Salaried,Male,4,6.0,Basic,3.0,Married,3.0,0,3,0,1.0,Executive,21291.0,0
+41.0,Self Enquiry,3,29.0,Small Business,Male,4,5.0,Deluxe,3.0,Divorced,4.0,1,3,1,1.1812330661656605,Manager,25058.0,1
+36.0,Company Invited,1,11.0,Salaried,Male,3,4.0,Deluxe,3.0,Unmarried,3.0,1,1,1,2.0,Manager,22927.0,0
+40.0,Self Enquiry,3,11.0,Salaried,Female,3,5.0,Deluxe,3.0,Married,6.0,0,5,1,2.0,Manager,24580.0,0
+37.0,Self Enquiry,1,8.0,Large Business,Male,3,4.0,Basic,3.0,Single,7.0,1,3,0,1.5988207978180853,Executive,17090.0,1
+41.45645704103007,Company Invited,3,24.93598806639256,Small Business,Female,3,4.607554892577364,Deluxe,3.607554892577365,Single,4.0,1,4,1,1.7848902148452708,Manager,27083.901377089893,1
+54.0,Self Enquiry,2,25.0,Small Business,Male,2,3.0,Standard,4.0,Divorced,3.0,0,3,1,0.0,Senior Manager,25725.0,0
+40.0,Company Invited,3,11.0,Salaried,Male,2,4.0,Standard,5.0,Married,6.0,1,5,0,0.0,Senior Manager,25475.0,0
+33.029243332128246,Self Enquiry,2,7.504873888688041,Salaried,Female,3,5.252436944344021,Basic,3.0,Married,7.495126111311959,1,1,0,1.7475630556559794,Executive,21472.44638722443,1
+28.0,Self Enquiry,1,15.0,Small Business,Male,3,3.0,Basic,3.0,Married,2.0,0,1,1,0.0,Executive,17070.0,0
+38.0,Company Invited,1,15.0,Salaried,Male,3,3.0,Deluxe,5.0,Married,5.0,0,3,0,2.0,Manager,21893.0,1
+43.0,Self Enquiry,1,25.0,Salaried,Male,3,4.0,Deluxe,5.0,Married,8.0,1,1,0,1.0,Manager,24088.0,0
+37.44566035338501,Company Invited,1,13.644253902936343,Salaried,Female,2,4.767787304853183,Basic,5.0,Single,3.5355746097063654,0,3,0,1.0,Executive,22326.78655234176,1
+47.0,Company Invited,1,14.0,Small Business,Female,2,4.0,Deluxe,3.0,Divorced,4.0,0,5,0,1.0,Manager,23936.0,0
+33.05727117717324,Company Invited,2,10.668725412607888,Salaried,Female,3,5.611454235434648,Basic,3.777091529130704,Married,4.331274587392113,0,3,0,2.388545764565352,Executive,21033.274003410217,1
+46.0,Company Invited,1,13.0,Small Business,Female,1,3.0,Deluxe,3.0,Divorced,3.0,0,5,0,0.0,Manager,20258.0,0
+35.0,Self Enquiry,3,7.0,Large Business,Male,4,5.0,Standard,3.0,Divorced,3.0,1,1,1,2.0,Senior Manager,25761.0,0
+38.0,Self Enquiry,1,16.0,Small Business,Female,3,3.0,Deluxe,3.0,Divorced,4.0,0,3,1,2.0,Manager,24824.0,0
+48.0,Company Invited,3,34.0,Salaried,Female,4,2.0,Deluxe,3.0,Unmarried,6.0,1,4,0,2.0,Manager,25075.0,1
+28.0,Self Enquiry,1,9.0,Small Business,Female,3,3.0,Standard,4.0,Married,1.0,0,4,0,0.0,Senior Manager,22655.0,0
+21.0,Self Enquiry,1,24.0,Salaried,Female,3,3.0,Basic,3.0,Single,2.0,0,3,1,2.0,Executive,17693.0,1
+30.267218446518473,Self Enquiry,2,9.226820387653936,Salaried,Female,3,4.9109271844938425,Basic,3.0,Married,7.554635922469212,1,2,0,1.9109271844938425,Executive,21477.554635922468,1
+33.0,Company Invited,3,18.0,Salaried,Male,3,2.749960470399178,Deluxe,3.0,Divorced,2.0,0,3,1,1.7499604703991778,Manager,23385.0,1
+51.0,Company Invited,3,7.0,Salaried,Male,3,4.0,Deluxe,3.0,Unmarried,5.0,1,1,1,2.0,Manager,23406.0,1
+59.0,Self Enquiry,3,17.0,Small Business,Male,3,4.0,Super Deluxe,3.0,Single,2.0,0,3,0,2.0,AVP,32550.0,0
+48.0,Self Enquiry,1,11.0,Salaried,Female,4,5.0,Standard,4.0,Married,2.0,1,4,1,3.0,Senior Manager,29011.0,0
+38.0,Company Invited,3,8.0,Salaried,Male,2,4.0,Deluxe,3.0,Married,4.0,0,5,1,1.0,Manager,20249.0,0
+46.0,Self Enquiry,1,8.0,Large Business,Male,2,3.0,Deluxe,3.0,Married,3.0,0,1,0,0.0,Manager,22379.0,0
+30.0,Self Enquiry,1,28.0,Salaried,Female,2,3.0,Basic,3.0,Divorced,5.0,1,2,0,1.0,Executive,17132.0,1
+31.115767019338527,Company Invited,1,25.65269894198441,Salaried,Male,3,3.0868252645038967,King,3.0,Divorced,3.971058245165368,0,3,1,0.0289417548346322,Manager,24821.916193651905,1
+32.0,Company Invited,1,21.0,Small Business,Female,2,3.0,Deluxe,3.0,Married,6.0,0,3,0,1.0,Manager,21667.0,0
+36.0,Self Enquiry,1,11.0,Salaried,Male,4,4.0,Basic,3.0,Married,3.0,0,4,0,1.0,Executive,20629.0,0
+42.0,Self Enquiry,3,11.0,Small Business,Male,2,3.0,King,3.0,Divorced,7.0,0,4,0,1.0,VP,33303.0,0
+30.0,Self Enquiry,1,14.0,Salaried,Female,3,1.0,Standard,5.0,Divorced,1.0,1,2,0,2.0,Senior Manager,26416.0,0
+60.0,Self Enquiry,1,10.0,Small Business,Female,3,2.0,Basic,5.0,Married,6.0,1,1,0,2.0,Executive,21348.0,0
+24.80534142612728,Company Invited,1,12.99236939124674,Salaried,Female,3,5.0,Basic,3.400763060875326,Single,3.0,0,4,1,1.0,Executive,21291.377871234617,1
+37.0,Self Enquiry,2,20.0,Salaried,Male,3,5.0,Basic,5.0,Married,6.0,1,5,1,2.0,Executive,23317.0,1
+28.0,Self Enquiry,1,6.0,Salaried,Female,3,5.0,Basic,4.0,Single,1.0,1,2,1,0.0,Executive,17216.0,1
+41.0,Company Invited,2,10.0,Salaried,Male,2,5.0,Deluxe,4.0,Married,7.0,0,5,0,1.0,Manager,21430.0,0
+33.0,Self Enquiry,1,7.0,Small Business,Male,3,4.0,Deluxe,3.0,Divorced,3.0,1,4,1,1.0,Manager,24840.0,0
+32.0,Self Enquiry,3,10.0,Small Business,Male,2,5.0,Standard,3.0,Divorced,2.0,0,1,1,0.0300856021853967,Senior Manager,25400.0,1
+41.07736794878859,Self Enquiry,1,15.430947179515435,Salaried,Male,3,4.0,Basic,3.7845264102422815,Unmarried,3.3922632051211408,0,2,1,1.3922632051211408,Executive,21623.414316922903,1
+28.0,Self Enquiry,3,15.0,Salaried,Male,3,3.0,Deluxe,3.0,Single,2.0,0,3,1,0.0,Manager,20253.0,0
+26.422140751720185,Self Enquiry,1,9.726228739862384,Salaried,Female,2,4.0,Deluxe,3.1368856300688073,Married,1.8631143699311927,1,4,1,1.7262287398623857,Manager,22855.70739587337,1
+32.0,Self Enquiry,3,13.0,Small Business,Male,4,2.0,Deluxe,3.0,Married,6.0,0,5,1,2.0,Manager,24138.0,0
+27.0,Self Enquiry,3,11.0,Small Business,Male,3,5.0,Deluxe,3.0,Unmarried,3.0,1,1,1,1.0,Manager,24506.0,1
+28.0,Self Enquiry,1,15.0,Small Business,Female,4,4.0,Basic,3.0,Unmarried,3.0,0,4,1,3.0,Executive,22123.0,0
+35.0,Self Enquiry,3,10.0,Salaried,Male,3,6.0,Deluxe,5.0,Unmarried,5.0,0,5,1,2.0,Manager,23437.0,0
+38.0,Self Enquiry,3,9.0,Small Business,Male,4,4.0,Deluxe,3.0,Married,6.0,1,3,0,3.0,Manager,28280.0,0
+42.0,Self Enquiry,3,27.0,Small Business,Female,4,4.0,Basic,4.0,Unmarried,3.0,1,4,0,3.0,Executive,21818.0,1
+59.0,Company Invited,1,7.0,Salaried,Male,3,6.0,Deluxe,3.0,Married,4.0,1,2,1,2.0,Manager,24338.0,0
+50.0,Self Enquiry,1,14.0,Salaried,Male,3,4.0,Standard,4.0,Married,5.0,0,4,0,2.0,Senior Manager,29144.0,0
+23.0,Self Enquiry,1,10.0,Salaried,Female,3,4.0,Deluxe,3.0,Married,2.0,1,5,1,2.0,Manager,22849.0,1
+27.397721401103137,Self Enquiry,3,15.035214942316582,Salaried,Female,3,4.239772140110313,Deluxe,3.2397721401103134,Unmarried,2.0,0,2,1,1.0,Manager,23260.274987082423,1
+41.0,Company Invited,1,8.0,Salaried,Female,3,4.0,Deluxe,3.0,Unmarried,3.0,1,1,0,0.0,Manager,21811.0,0
+29.0,Self Enquiry,1,9.0,Salaried,Male,4,5.0,Basic,4.0,Divorced,2.0,0,2,0,3.0,Executive,21879.0,0
+40.0,Self Enquiry,1,17.0,Small Business,Male,4,4.0,Standard,3.0,Single,2.0,0,3,1,1.0,Senior Manager,32142.0,0
+39.0,Company Invited,1,8.0,Large Business,Female,3,3.0,Standard,3.0,Unmarried,1.0,0,1,1,2.0,Senior Manager,25938.0,0
+38.0,Self Enquiry,1,7.0,Large Business,Female,3,4.0,Standard,3.0,Unmarried,6.0,0,5,1,1.0,Senior Manager,26169.0,0
+57.50320807304062,Company Invited,1,19.06450504565039,Large Business,Female,2,3.1870989908699223,King,3.0,Single,1.7483959634796895,1,5,1,0.1870989908699224,Manager,25504.890238346943,1
+32.0,Self Enquiry,1,11.0,Salaried,Female,2,1.0,Basic,3.0,Married,4.0,0,5,1,1.0,Executive,18312.0,0
+33.0,Company Invited,3,18.0,Salaried,Male,3,3.0,Deluxe,3.0,Divorced,2.0,0,3,1,2.0,Manager,23385.0,1
+32.91465033192136,Self Enquiry,3,16.024196016943726,Salaried,Female,3,3.2560490042359316,Deluxe,4.829300663842712,Single,1.3413986723145754,1,3,0,0.2560490042359316,Manager,23225.109545685023,1
+34.0,Self Enquiry,1,7.0,Salaried,Female,3,5.0,Deluxe,3.0,Unmarried,2.0,0,4,1,2.0,Manager,25627.0,0
+30.0,Self Enquiry,3,30.0,Salaried,Female,3,5.0,Standard,5.0,Divorced,3.0,0,3,0,1.050479376342358,Senior Manager,26014.0,1
+33.0,Self Enquiry,1,9.0,Salaried,Male,4,4.0,Basic,4.0,Single,3.0,0,3,1,2.0,Executive,20071.0,1
+32.0,Company Invited,1,7.0,Salaried,Male,3,6.0,Deluxe,5.0,Married,3.0,0,1,1,2.0,Manager,23681.0,0
+38.0,Company Invited,3,7.0,Small Business,Male,3,6.0,Deluxe,3.0,Married,3.0,0,1,0,2.0,Manager,28203.0,0
+28.0,Self Enquiry,1,16.0,Small Business,Female,3,4.0,Basic,4.0,Single,3.0,0,3,1,1.0,Executive,20957.0,0
+41.0,Self Enquiry,3,32.0,Small Business,Male,3,5.0,Standard,4.0,Unmarried,4.0,1,5,0,2.0,Senior Manager,27772.0,1
+33.5788049717643,Self Enquiry,3,14.917313575462243,Salaried,Female,3,3.082686424537757,Basic,4.834627150924486,Single,1.1653728490755144,1,2,0,1.1653728490755144,Executive,23223.00776290555,1
+30.0,Self Enquiry,1,15.0,Small Business,Male,4,5.0,Deluxe,3.0,Married,3.0,1,3,1,2.0,Manager,23734.0,0
+30.00943368794252,Company Invited,1,9.67452807328543,Salaried,Male,2,3.665094385342914,Basic,4.330188770685828,Married,1.334905614657086,0,3,0,0.0,Executive,17569.03773475177,1
+38.0,Self Enquiry,1,31.0,Salaried,Female,2,4.0,Standard,4.0,Divorced,4.0,0,3,1,0.0,Senior Manager,27061.0,0
+32.0,Self Enquiry,1,31.0,Salaried,Male,2,3.0,Basic,3.0,Single,2.0,1,5,0,0.0,Executive,17795.0,1
+34.0,Self Enquiry,1,8.0,Salaried,Male,2,4.0,Deluxe,5.0,Divorced,7.0,0,4,0,1.0,Manager,20957.0,0
+45.187055778070906,Company Invited,1,23.215862557460888,Salaried,Female,3,3.906472110964547,Standard,3.093527889035453,Divorced,2.906472110964547,0,3,0,1.812944221929094,Senior Manager,26674.050882583844,1
+38.16062753188038,Company Invited,1,16.607947754794488,Small Business,Female,3,3.0,King,3.05526797770859,Married,6.88946404458282,0,3,1,1.9447320222914104,Manager,25045.789280891655,1
+37.0,Self Enquiry,1,11.0,Small Business,Male,3,3.0,Deluxe,3.0,Married,1.0,0,3,0,0.0,Manager,21347.0,0
+30.0,Company Invited,1,9.0,Salaried,Male,2,3.0,Basic,3.0,Divorced,5.0,0,3,0,1.0,Executive,17097.0,0
+42.0,Company Invited,1,8.0,Small Business,Male,2,3.0,Basic,3.0,Single,6.0,1,2,0,1.0,Executive,17515.0,0
+28.0,Company Invited,1,12.0,Salaried,Female,3,4.0,Basic,3.0,Single,2.0,1,1,1,2.0,Executive,21057.0,0
+30.0,Self Enquiry,3,7.0,Small Business,Female,3,5.0,Basic,3.0,Married,8.0,1,1,0,2.0,Executive,21478.0,1
+21.630640482041745,Company Invited,3,9.868467975897913,Small Business,Female,3,3.8684679758979126,Basic,3.0,Married,3.2630640482041744,1,4,0,1.8684679758979128,Executive,20245.81621178308,1
+22.67088913854376,Self Enquiry,1,14.191682611012505,Salaried,Female,3,3.0958413055062515,Basic,5.0,Married,2.4792065275312583,1,3,0,0.9041586944937484,Executive,17398.575047833037,1
+38.89133889707496,Self Enquiry,1,9.090550919104205,Salaried,Male,3,4.0,Deluxe,3.98188981617916,Divorced,5.945669448537479,0,3,0,1.0181101838208404,Manager,23533.507085146983,1
+40.0,Self Enquiry,1,30.0,Small Business,Male,4,4.0,Basic,5.0,Unmarried,2.0,0,3,0,3.0,Executive,22582.0,1
+29.0,Self Enquiry,1,14.0,Small Business,Male,3,4.0,Deluxe,3.0,Divorced,2.0,1,3,0,0.0,Manager,20056.0,0
+41.0,Self Enquiry,1,22.0,Salaried,Female,4,5.0,Standard,3.0,Married,3.0,0,1,1,2.0,Senior Manager,29113.0,0
+29.0,Self Enquiry,1,13.0,Large Business,Female,2,3.0,Basic,3.0,Married,4.0,1,4,1,0.0,Executive,31124.0,1
+34.538312280980435,Company Invited,1,13.846104093660143,Salaried,Male,4,6.0,Deluxe,3.0,Single,3.461687719019565,1,4,0,1.30779181267971,Manager,24767.081798821306,1
+37.0,Self Enquiry,1,13.0,Salaried,Female,3,2.0,Basic,3.0,Married,5.0,0,1,0,1.0,Executive,21716.0,0
+35.0,Self Enquiry,1,7.0,Salaried,Male,3,5.0,Basic,3.0,Divorced,3.0,1,2,0,1.0,Executive,22300.0,0
+29.0,Self Enquiry,1,9.0,Small Business,Male,3,4.0,Basic,3.0,Unmarried,8.0,0,3,0,1.0,Executive,23060.0,1
+38.0,Self Enquiry,1,35.0,Large Business,Male,2,3.0,Deluxe,3.0,Divorced,4.0,0,2,0,1.0,Manager,21261.0,0
+57.0,Self Enquiry,1,31.0,Salaried,Male,4,4.0,Basic,3.0,Single,3.0,0,3,0,1.0,Executive,21265.0,1
+27.0,Company Invited,3,36.0,Small Business,Male,4,6.0,Deluxe,5.0,Unmarried,2.0,0,3,1,2.0,Manager,23647.0,1
+42.0,Self Enquiry,1,9.0,Salaried,Female,3,1.0,Deluxe,3.0,Divorced,3.0,1,5,0,0.0,Manager,20231.0,0
+31.0,Self Enquiry,1,15.0,Salaried,Female,4,2.0,Standard,5.0,Married,2.0,1,1,0,3.0,Senior Manager,30094.0,0
+53.0,Company Invited,3,8.0,Small Business,Female,2,4.0,Standard,4.0,Divorced,3.0,0,2,0,1.0,Senior Manager,22525.0,0
+30.49015654947848,Company Invited,1,16.509843450521522,Salaried,Female,3,5.0,Basic,4.754921725260761,Single,7.264765175782282,1,5,1,1.7549217252607607,Executive,21081.019686901043,1
+27.0,Company Invited,3,8.0,Salaried,Male,2,5.0,Deluxe,3.0,Single,4.0,0,4,1,1.0,Manager,20071.0,0
+51.0,Self Enquiry,1,7.0,Small Business,Male,3,5.0,Basic,3.0,Married,4.0,0,3,1,1.0,Executive,22368.0,0
+26.0,Self Enquiry,3,6.0,Salaried,Male,2,3.0,Deluxe,3.0,Divorced,2.0,0,5,1,0.0,Manager,20296.0,0
+33.0,Self Enquiry,3,7.0,Small Business,Male,4,5.0,Basic,4.0,Married,2.0,0,1,0,3.0,Executive,20947.0,0
+31.0,Self Enquiry,1,7.0,Salaried,Male,3,5.0,Deluxe,3.0,Divorced,3.0,1,2,1,2.0,Manager,23804.0,0
+27.41931712987887,Company Invited,1,8.72045524674742,Large Business,Male,3,4.0,Basic,4.720455246747421,Married,7.161365740242263,0,4,0,1.0,Executive,20722.23635802602,1
+36.0,Company Invited,3,9.0,Small Business,Male,2,4.0,Standard,3.0,Married,5.0,0,1,0,0.0,Senior Manager,24699.0,0
+51.0,Self Enquiry,3,15.0,Small Business,Male,3,4.0,Basic,4.0,Married,2.0,0,1,0,2.0,Executive,22553.0,0
+30.694696470854428,Self Enquiry,1,24.725750591961976,Salaried,Female,3,4.610607058291146,Basic,3.6106070582911465,Divorced,5.08408941256328,1,2,0,2.0,Executive,20806.031054121107,1
+25.0,Self Enquiry,3,11.0,Small Business,Male,2,4.0,Deluxe,3.0,Single,2.0,1,3,1,0.0,Manager,20744.0,1
+36.0,Self Enquiry,1,23.0,Salaried,Male,4,4.0,Standard,3.0,Married,6.0,1,1,0,1.0,Senior Manager,26310.0,0
+41.0,Self Enquiry,1,26.0,Small Business,Male,2,4.0,Deluxe,3.0,Married,2.0,1,1,1,1.0,Manager,21419.0,0
+35.0,Self Enquiry,1,29.0,Salaried,Male,2,4.0,Deluxe,3.0,Divorced,4.0,1,4,1,1.0,Manager,20916.0,1
+24.41085083775853,Company Invited,3,8.808138128318898,Salaried,Female,2,4.397287290560367,Basic,3.3972872905603673,Single,2.3972872905603673,1,2,1,0.7945745811207345,Executive,20837.534894973447,1
+32.0,Company Invited,1,11.0,Salaried,Female,2,1.0,Basic,3.0,Single,4.0,1,1,0,1.0,Executive,17432.0,1
+33.0,Company Invited,1,7.0,Salaried,Male,4,4.0,Basic,3.0,Married,2.0,0,5,0,1.0,Executive,20992.0,0
+40.0,Company Invited,1,9.0,Large Business,Female,4,4.0,Standard,3.0,Single,2.0,0,1,1,3.0,Senior Manager,29616.0,0
+36.0,Self Enquiry,1,28.0,Salaried,Female,3,4.0,Deluxe,3.0,Married,3.0,1,3,0,1.0,Manager,22692.0,0
+29.0,Self Enquiry,1,9.0,Salaried,Male,3,5.578342477214677,Basic,3.0,Divorced,6.367513715822015,0,3,0,1.2108287613926616,Executive,22146.427403989244,1
+30.0,Company Invited,1,31.0,Salaried,Male,4,5.0,Basic,3.0,Single,3.0,1,3,1,3.0,Executive,21117.0,1
+27.0,Company Invited,1,19.957621250574434,Small Business,Female,3,4.276579886311415,Basic,3.7234201136885847,Divorced,3.7234201136885847,1,1,0,1.276579886311415,Executive,21049.06394079582,1
+52.0,Self Enquiry,3,28.0,Small Business,Male,4,4.0,Deluxe,3.0,Unmarried,2.0,1,5,0,3.0,Manager,24119.0,0
+19.0,Company Invited,1,16.0,Small Business,Female,3,4.0,Basic,4.0,Single,2.0,1,5,0,1.7281887562036031,Executive,16859.0,1
+41.10632264184106,Self Enquiry,1,11.170258018619208,Large Business,Female,2,3.425526886820088,Deluxe,3.0,Married,1.574473113179912,0,2,0,0.8510537736401762,Executive,20397.659720282216,1
+46.0,Self Enquiry,3,9.0,Large Business,Female,2,1.0,Super Deluxe,5.0,Married,3.0,0,3,1,0.0,AVP,28225.0,0
+40.0,Company Invited,1,6.0,Salaried,Male,3,4.0,Super Deluxe,4.0,Married,2.0,0,1,1,1.0,AVP,28503.0,0
+39.0,Self Enquiry,1,9.0,Small Business,Male,4,4.0,Basic,3.0,Married,8.0,1,4,0,3.0,Executive,21735.0,0
+42.0,Self Enquiry,1,16.0,Salaried,Male,4,4.0,Basic,5.0,Married,4.0,0,1,0,1.0,Executive,20916.0,0
+34.58841451834455,Company Invited,1,18.392276345563033,Salaried,Male,3,4.598069086390758,Basic,5.0,Married,5.196138172781516,1,4,0,2.0,Executive,23339.50813116212,1
+46.0,Company Invited,1,14.0,Salaried,Male,4,3.0,Deluxe,3.0,Divorced,6.0,0,2,0,3.0,Manager,25112.0,0
+46.46840270989392,Company Invited,2,6.614190833061928,Large Business,Male,3,3.153547708265482,Basic,3.307095416530964,Married,1.153547708265482,0,3,0,1.3070954165309636,Executive,21735.984480829804,1
+37.0,Self Enquiry,3,9.0,Small Business,Male,4,5.0,Standard,3.0,Married,3.0,0,1,1,2.0,Senior Manager,26274.0,0
+34.0,Self Enquiry,3,6.0,Small Business,Male,3,1.0,Deluxe,3.0,Married,1.0,0,5,0,1.0,Manager,24725.0,0
+31.0,Self Enquiry,1,9.0,Salaried,Male,4,4.0,Basic,4.0,Single,3.0,0,3,0,1.0,Executive,30594.0,1
+36.0,Self Enquiry,1,29.0,Salaried,Female,4,2.0,Standard,4.0,Married,2.0,0,5,1,3.0,Senior Manager,30674.0,0
+34.1580565408988,Self Enquiry,3,28.873554767280964,Small Business,Female,2,3.0,Standard,3.0,Divorced,2.0,0,3,0,0.7420971729550602,Senior Manager,22642.868542405675,1
+26.0,Self Enquiry,1,9.0,Salaried,Male,3,4.0,Basic,3.0,Married,8.0,1,5,0,1.0,Executive,22655.0,0
+30.92464777149571,Company Invited,1,8.481161942873928,Salaried,Male,2,3.518838057126072,Basic,5.0,Single,1.481161942873928,0,4,1,1.481161942873928,Executive,18343.330457485867,1
+29.0,Self Enquiry,3,29.0,Salaried,Female,2,4.0,Standard,5.0,Divorced,2.0,0,3,0,0.1870437485575233,Senior Manager,22336.0,1
+45.0,Self Enquiry,1,16.0,Salaried,Male,4,4.0,Basic,5.0,Divorced,3.0,1,3,1,1.0,Executive,21237.0,0
+42.22822896786084,Self Enquiry,2,14.93902620760982,Small Business,Female,2,3.2944248274843115,King,3.588849654968623,Divorced,3.4721241374215577,0,4,0,1.2944248274843115,Manager,22670.193365511637,1
+33.0,Company Invited,3,18.0,Salaried,Male,3,2.0,Deluxe,3.0,Married,2.0,0,3,1,1.0,Manager,23385.0,1
+26.397676298172236,Company Invited,1,8.0,Salaried,Male,2,4.0,Basic,4.643928066260497,Single,1.178035966869751,0,3,0,0.0,Executive,17561.53410790061,1
+30.0,Self Enquiry,1,15.0,Salaried,Female,3,6.0,Deluxe,5.0,Married,5.0,0,1,0,1.0,Manager,28393.0,0
+44.618800030657205,Company Invited,1,21.769430744469183,Small Business,Male,3,5.322353844974723,Deluxe,4.322353844974723,Married,3.355292310050554,0,1,0,1.0,Manager,23628.025907659292,1
+38.94761311865787,Company Invited,1,22.882779322044517,Small Business,Female,3,3.9351662033866446,Basic,3.3117220677955483,Married,6.441389661022258,0,2,1,2.0,Executive,21437.311722067796,1
+35.0,Self Enquiry,3,16.0,Salaried,Female,4,4.0,Deluxe,3.0,Divorced,3.0,0,2,1,3.0,Manager,24392.0,0
+32.0,Self Enquiry,3,25.0,Salaried,Male,3,5.0,Standard,3.0,Married,4.0,0,3,1,2.0,Senior Manager,24610.0,0
+31.0,Self Enquiry,1,15.0,Salaried,Male,2,4.0,Basic,4.0,Single,1.0,1,3,1,0.0,Executive,17657.0,0
+44.0,Self Enquiry,1,29.0,Small Business,Male,3,3.0,Basic,5.0,Single,1.0,0,3,0,2.0,Executive,33213.0,1
+47.87126526416773,Company Invited,3,33.90804661726266,Salaried,Female,4,2.0551720296424003,Deluxe,3.0,Single,5.963218646905067,1,3,1,2.9632186469050668,Manager,25074.687358498693,1
+40.0,Self Enquiry,1,31.0,Small Business,Male,3,4.0,Basic,4.0,Married,3.0,1,1,0,1.0,Executive,22582.0,1
+32.0,Self Enquiry,3,10.0,Small Business,Male,2,5.0,Standard,3.0,Divorced,2.0,0,2,1,1.0,Senior Manager,25400.0,1
+36.0,Self Enquiry,3,9.0,Salaried,Male,2,4.0,Standard,3.0,Divorced,2.0,1,1,1,0.0,Senior Manager,25325.0,1
+45.0,Self Enquiry,2,7.0,Salaried,Female,3,4.0,Basic,3.0,Married,6.0,1,3,1,1.0,Executive,21873.0,0
+44.746868573572854,Company Invited,1,7.171679285848303,Salaried,Female,2,1.5150378575449106,King,3.8283207141516966,Married,1.8283207141516968,0,2,0,0.0,Manager,17373.373434286787,1
+28.0,Self Enquiry,1,6.0,Salaried,Male,3,4.0,Basic,3.0,Married,2.0,0,4,0,1.0,Executive,16563.0,0
+36.0,Self Enquiry,1,22.0,Salaried,Female,2,1.0,Basic,5.0,Single,2.0,0,1,1,0.0,Executive,17743.0,1
+37.0,Self Enquiry,3,9.0,Salaried,Male,4,4.0,Basic,3.0,Unmarried,5.0,1,3,0,1.0,Executive,21322.0,0
+37.0,Self Enquiry,1,9.0,Salaried,Male,2,3.0,Standard,3.0,Married,2.0,0,1,1,0.0,Senior Manager,24434.0,0
+44.0,Self Enquiry,1,16.0,Salaried,Male,2,3.0,Deluxe,3.0,Married,3.0,1,3,0,1.0,Manager,21465.0,0
+59.0,Self Enquiry,1,28.0,Small Business,Female,4,4.0,Deluxe,4.0,Married,6.0,0,3,1,2.0,Manager,28686.0,1
+24.0,Self Enquiry,1,23.0,Salaried,Male,3,4.0,Basic,4.0,Married,2.0,0,3,1,1.0,Executive,17127.0,0
+40.0,Self Enquiry,1,9.0,Large Business,Female,4,5.0,Deluxe,3.0,Unmarried,3.0,0,1,1,2.0,Manager,23231.0,0
+43.0,Self Enquiry,3,15.0,Small Business,Female,2,5.0,Deluxe,3.0,Single,1.0,0,2,1,1.0,Manager,20346.0,1
+40.94955255610858,Self Enquiry,1,13.986547348295622,Salaried,Male,3,4.0,Basic,4.993273674147811,Single,4.989910511221716,1,2,0,1.9966368370739056,Executive,20843.946189393184,1
+28.0,Self Enquiry,1,14.0,Salaried,Female,2,4.0,Basic,4.0,Single,2.0,0,4,0,1.0,Executive,17154.0,1
+43.0,Self Enquiry,3,22.0,Small Business,Female,3,3.0,Super Deluxe,3.0,Married,6.0,1,3,0,0.0,AVP,31064.0,0
+30.0,Self Enquiry,1,15.0,Salaried,Male,4,6.0,Basic,5.0,Married,3.0,1,3,0,2.0,Executive,20797.0,1
+34.0,Company Invited,1,12.0,Salaried,Female,4,4.0,Standard,4.0,Divorced,8.0,0,3,1,3.0,Senior Manager,30556.0,0
+41.0,Self Enquiry,1,11.0,Small Business,Male,2,1.0,Basic,3.0,Divorced,3.0,1,1,1,1.0,Executive,17127.0,0
+38.0,Self Enquiry,1,17.0,Small Business,Male,3,4.0,Deluxe,5.0,Unmarried,3.0,0,4,0,1.0,Manager,22891.0,1
+50.0,Company Invited,3,6.0,Salaried,Male,3,3.0,Deluxe,3.0,Married,1.0,0,3,1,1.0,Manager,21728.0,1
+20.904826090608083,Company Invited,2,8.0,Salaried,Female,2,3.8491956515653194,Basic,3.301608696869361,Married,2.7540217421734035,0,4,0,0.8491956515653193,Executive,17043.69839130313,1
+27.695399550767625,Self Enquiry,2,21.17239730460576,Large Business,Female,2,4.0,Deluxe,4.130266367178418,Divorced,2.434866816410791,0,3,0,0.434866816410791,Manager,22350.350604941556,1
+31.0,Self Enquiry,1,17.0,Small Business,Female,4,4.0,Standard,3.0,Unmarried,2.0,0,4,0,1.0,Senior Manager,28345.0,0
+31.0,Self Enquiry,2,28.0,Salaried,Male,2,5.0,Basic,3.0,Married,2.0,0,1,0,1.0,Executive,24852.0,1
+28.0,Self Enquiry,1,30.0,Small Business,Male,2,3.0,Basic,4.0,Married,2.0,1,1,0,0.0,Executive,17408.0,1
+47.0,Company Invited,3,33.0,Salaried,Male,4,5.0,Deluxe,4.0,Unmarried,2.0,0,4,1,3.0,Manager,26669.0,0
+38.0,Self Enquiry,1,13.0,Small Business,Male,3,2.0,Deluxe,5.0,Married,6.0,1,3,1,2.0,Manager,24652.0,0
+19.0,Company Invited,3,12.0,Small Business,Male,4,4.0,Basic,4.0,Single,3.0,1,4,1,1.0,Executive,20556.0,1
+39.0,Company Invited,1,19.0,Salaried,Male,3,5.0,Deluxe,5.0,Married,4.0,0,5,1,1.0,Manager,24966.0,0
+37.0,Self Enquiry,1,10.0,Large Business,Male,2,4.0,Deluxe,4.0,Unmarried,6.0,0,1,1,1.0,Manager,23163.0,0
+43.0,Company Invited,1,16.0,Small Business,Female,4,4.0,Basic,3.0,Unmarried,3.0,0,4,1,2.0,Executive,22351.0,0
+30.848326335880365,Company Invited,1,25.634937022923292,Small Business,Male,3,5.3838912213732115,Basic,3.616108778626789,Single,3.919456106866057,0,3,0,2.6161087786267885,Executive,22151.2416316794,1
+36.11323804584075,Self Enquiry,2,21.320571724955467,Salaried,Female,3,5.77352390831849,Basic,3.0,Married,7.433809770796223,0,1,1,1.8867619541592449,Executive,24114.602858624778,1
+24.0,Company Invited,3,8.0,Salaried,Female,3,4.0,Basic,4.0,Single,3.0,1,5,1,2.0,Executive,19901.0,1
+19.0,Self Enquiry,3,28.0,Small Business,Male,2,3.0,Basic,3.0,Single,2.0,1,1,0,0.4686606419941262,Executive,16675.0,1
+22.0,Self Enquiry,1,14.0,Salaried,Male,3,5.0,Basic,5.0,Married,2.0,0,1,0,1.0,Executive,17451.0,0
+28.0,Self Enquiry,3,9.0,Small Business,Female,3,2.0,Deluxe,3.0,Unmarried,2.0,0,1,0,2.0,Manager,25178.0,0
+43.0,Self Enquiry,3,31.0,Small Business,Male,3,4.0,Standard,3.0,Married,6.0,0,4,1,1.0,Senior Manager,25798.0,0
+23.0,Company Invited,1,10.0,Salaried,Male,3,5.0,Basic,3.0,Divorced,2.0,1,3,0,1.0,Executive,21531.0,1
+52.0,Company Invited,1,15.0,Salaried,Male,3,6.0,Standard,3.0,Single,4.0,0,1,1,1.0,Senior Manager,29328.0,1
+36.0,Self Enquiry,1,7.0,Large Business,Female,3,5.0,Standard,5.0,Married,3.0,1,1,1,0.0,Senior Manager,25252.0,0
+50.0,Self Enquiry,1,10.0,Salaried,Male,3,3.0,King,4.0,Married,4.0,0,5,1,0.0,VP,34144.0,0
+28.0,Self Enquiry,1,11.0,Salaried,Female,4,4.0,Basic,3.0,Single,3.0,0,2,1,2.0,Executive,20996.0,0
+25.0,Self Enquiry,3,10.0,Salaried,Female,3,4.0,Deluxe,3.0,Divorced,2.0,0,4,1,1.0,Manager,23677.0,0
+48.0,Company Invited,1,6.0,Small Business,Male,2,1.0,Super Deluxe,3.0,Single,3.0,0,2,0,0.0,AVP,31885.0,0
+29.22161575182252,Company Invited,1,22.059944456533653,Salaried,Female,2,1.485013885866587,Basic,4.676657409422276,Married,1.161671295288862,0,1,0,0.0,Executive,17951.149861141334,1
+37.0,Self Enquiry,1,13.0,Small Business,Male,1,3.0,Standard,3.0,Single,5.0,0,2,0,0.0,Senior Manager,28664.0,0
+46.0,Company Invited,1,24.0,Small Business,Female,2,3.0,Standard,3.0,Divorced,6.0,0,3,1,0.0,Senior Manager,25527.0,0
+32.0,Self Enquiry,1,30.0,Small Business,Male,4,5.0,Deluxe,3.0,Divorced,2.0,0,3,1,2.0,Manager,24260.0,0
+43.0208561573949,Company Invited,3,30.4434686838535,Salaried,Female,4,4.1339187896879,Deluxe,3.0,Married,4.5773874735414,1,3,0,1.2886937367707,Manager,25062.9077935251,1
+26.14141662374857,Self Enquiry,1,12.260787910001042,Salaried,Female,2,3.5325984887501303,Basic,4.53259848875013,Single,2.0,0,3,1,0.4674015112498697,Executive,16405.249765241253,1
+30.0,Self Enquiry,1,15.0,Small Business,Male,4,5.0,Deluxe,3.0,Divorced,3.0,1,3,0,1.0,Manager,23734.0,0
+28.0,Company Invited,3,7.0,Small Business,Male,4,4.0,Deluxe,4.0,Divorced,2.0,1,2,0,3.0,Manager,25027.0,0
+36.53021984972551,Company Invited,1,25.19127748121569,Salaried,Female,3,2.8087225187843115,Basic,3.0,Married,5.573832443647065,1,3,0,1.4043612593921555,Executive,21429.721497330946,1
+26.0,Self Enquiry,3,14.0,Large Business,Male,2,4.0,Deluxe,5.0,Single,7.0,0,3,0,0.0,Manager,20326.0,1
+46.0,Self Enquiry,3,15.0,Small Business,Male,2,3.0,Standard,3.0,Married,5.0,0,3,0,1.0,Senior Manager,25096.0,1
+31.0,Self Enquiry,3,13.0,Salaried,Male,2,4.0,Standard,3.0,Married,1.0,0,3,1,0.0,Senior Manager,26557.0,0
+28.0,Self Enquiry,1,6.0,Salaried,Female,3,5.0,Basic,4.0,Single,1.0,1,1,1,1.316365296604248,Executive,17216.0,1
+38.0,Self Enquiry,1,32.0,Small Business,Female,3,5.0,Deluxe,3.0,Married,2.0,0,3,1,1.0,Manager,24409.0,0
+26.0,Self Enquiry,1,24.737802419336532,Small Business,Male,2,3.0,Basic,3.4524395161326935,Married,2.4524395161326935,0,3,1,1.0,Executive,17375.19024193547,1
+31.0,Company Invited,2,15.0,Salaried,Female,4,5.0,Basic,3.0,Married,8.0,0,5,1,3.0,Executive,20858.0,1
+33.0,Company Invited,3,23.0,Salaried,Male,2,3.0,Super Deluxe,3.0,Single,2.0,0,3,1,1.0,AVP,32444.0,0
+44.0,Self Enquiry,1,13.0,Small Business,Female,4,5.0,Deluxe,3.0,Unmarried,3.0,1,4,1,2.0,Manager,22759.0,0
+52.0,Self Enquiry,3,31.0,Small Business,Female,3,5.0,Deluxe,4.0,Unmarried,2.0,1,5,1,2.0,Manager,21516.0,1
+31.86859912818946,Self Enquiry,1,8.788405230863239,Salaried,Female,2,3.1314008718105395,Basic,4.0,Single,2.0,0,3,0,1.0,Executive,16375.655084921009,1
+41.0,Self Enquiry,3,29.0,Small Business,Male,4,5.0,Deluxe,3.0,Married,4.0,1,3,1,1.0,Manager,25058.0,1
+32.0,Self Enquiry,1,16.0,Salaried,Male,3,5.0,Basic,4.0,Unmarried,2.0,1,3,1,1.0,Executive,21335.0,0
+44.0,Company Invited,1,24.0,Large Business,Male,3,5.0,Basic,3.0,Married,2.0,1,5,1,2.0,Executive,21115.0,1
+30.0,Self Enquiry,3,13.0,Small Business,Male,2,3.0,Basic,4.0,Single,1.0,0,1,0,0.0,Executive,17983.0,0
+21.0,Self Enquiry,1,7.0,Salaried,Female,3,5.0,Basic,4.0,Unmarried,3.0,0,4,1,1.0,Executive,21514.0,0
+32.0,Company Invited,1,7.0,Salaried,Female,4,4.0,Deluxe,5.0,Divorced,3.0,0,5,1,3.0,Manager,22826.0,0
+43.9857636909658,Company Invited,3,16.118507201744464,Salaried,Female,3,4.35071181545171,Deluxe,3.70142363090342,Married,3.7535590772585503,0,2,0,2.0,Manager,25394.777221905544,1
+32.82125730467201,Company Invited,1,27.888918007456297,Salaried,Female,3,4.178742695327987,Basic,3.0,Unmarried,2.821257304672013,0,5,0,1.1787426953279871,Executive,21471.21257304672,1
+39.0,Self Enquiry,1,32.0,Salaried,Female,3,5.0,Standard,4.0,Married,5.0,0,3,0,2.0,Senior Manager,30739.0,0
+48.0,Self Enquiry,1,21.0,Salaried,Female,3,3.0,Basic,5.0,Married,1.0,0,1,1,0.0,Executive,17367.0,0
+42.0,Company Invited,1,7.0,Salaried,Female,3,1.0,Standard,4.0,Single,2.0,0,3,1,0.0,Senior Manager,17372.0,1
+32.0,Self Enquiry,1,14.0,Small Business,Female,3,4.0,Deluxe,5.0,Married,3.0,0,1,1,1.0,Manager,22984.0,0
+25.0,Self Enquiry,3,11.0,Small Business,Female,3,4.0,Deluxe,3.0,Divorced,3.0,1,5,1,1.0,Manager,22840.0,0
+25.84578974052006,Self Enquiry,3,20.92289487026003,Salaried,Female,3,3.213654985584448,Basic,3.786345014415552,Single,3.0,0,4,0,1.7863450144155522,Executive,21391.00883020182,1
+28.0,Self Enquiry,1,12.0,Salaried,Female,3,4.0,Basic,4.0,Single,3.0,1,3,0,2.0,Executive,21156.0,0
+33.0,Self Enquiry,1,8.0,Salaried,Male,2,3.0,Basic,3.0,Single,1.0,0,3,1,0.0,Executive,17500.0,0
+39.646535729401606,Self Enquiry,2,16.021613037293843,Salaried,Female,3,4.392244045099733,Deluxe,3.0,Single,3.176732135299197,1,2,1,1.0,Manager,24640.79720852732,1
+50.0,Self Enquiry,1,15.0,Salaried,Male,3,3.0,Basic,3.0,Divorced,5.0,0,5,1,0.0,Executive,17380.0,0
+43.0,Company Invited,1,15.0,Small Business,Male,3,3.0,Deluxe,3.0,Married,4.0,1,3,1,0.0,Manager,20679.0,0
+35.0,Company Invited,3,13.0,Small Business,Female,3,6.0,Basic,3.0,Married,2.0,0,4,1,2.0,Executive,21029.0,1
+46.0,Self Enquiry,3,9.0,Small Business,Male,2,3.0,Super Deluxe,3.0,Divorced,4.0,0,2,1,0.0,AVP,32465.0,0
+29.0,Self Enquiry,1,16.0,Salaried,Female,3,4.0,Basic,5.0,Single,7.0,1,5,1,0.0,Executive,17404.0,1
+43.0,Self Enquiry,2,9.0,Large Business,Male,3,4.0,Basic,3.0,Married,2.0,1,4,1,2.0,Executive,21374.0,0
+52.0,Company Invited,3,11.517758701419885,Salaried,Female,3,3.0,King,3.741120649290059,Single,1.517758701419882,1,4,1,1.258879350709941,Manager,23446.0,1
+29.054979143292403,Company Invited,2,18.923029199390637,Salaried,Female,2,4.010995828658481,Basic,4.978008342683039,Married,4.9560166853660785,0,4,1,1.0,Executive,17335.175933258535,1
+57.0,Self Enquiry,1,6.0,Small Business,Male,2,3.0,Deluxe,3.0,Married,3.0,0,3,0,1.0,Manager,21755.0,0
+18.604408462189177,Company Invited,1,14.120881692437836,Small Business,Male,2,3.0,Basic,3.2417633848756706,Married,2.0,0,5,1,0.0,Executive,16890.219487062088,1
+55.0,Self Enquiry,1,14.0,Small Business,Female,2,3.0,Super Deluxe,3.0,Married,3.0,1,3,0,1.0,AVP,29756.0,0
+23.489725488652763,Company Invited,2,7.489725488652762,Salaried,Female,2,3.0,Basic,4.244862744326381,Married,2.734588232979143,0,5,1,0.755137255673619,Executive,16197.28941184573,1
+33.0,Self Enquiry,1,12.0,Salaried,Female,4,5.0,Deluxe,4.0,Married,5.0,0,3,1,1.0,Manager,24556.0,0
+40.0,Self Enquiry,1,15.0,Salaried,Male,2,3.0,Basic,5.0,Single,4.0,0,1,1,1.0,Executive,17018.0,1
+48.17920634602068,Company Invited,2,19.6703175017312,Salaried,Male,2,4.179206346020677,Deluxe,4.0,Single,2.0,1,1,1,0.5896031730103385,Manager,26688.038333768174,1
+31.0,Self Enquiry,1,27.0,Salaried,Male,3,4.0,Deluxe,5.0,Married,2.0,0,4,0,2.0,Manager,28635.0,0
+32.0,Self Enquiry,1,16.0,Salaried,Male,3,4.0,Standard,4.0,Married,3.0,0,3,0,1.0,Senior Manager,29326.0,0
+37.22293404354627,Company Invited,1,16.724535641525357,Small Business,Male,3,3.111467021773132,King,3.0,Divorced,6.832799467340301,0,3,0,2.0,Manager,25048.557335108864,1
+52.0,Company Invited,3,8.0,Salaried,Male,3,4.0,King,3.0,Single,2.0,1,1,1,0.0,VP,34068.0,0
+43.0,Company Invited,1,28.0,Small Business,Female,3,4.0,Deluxe,3.0,Married,4.0,0,2,0,1.0,Manager,23943.0,0
+30.31529033783061,Self Enquiry,1,19.414064729628542,Salaried,Female,3,5.3694193243387796,Basic,4.3694193243387796,Divorced,3.945871013491831,1,2,0,2.0,Executive,20801.0987743918,1
+22.0,Self Enquiry,1,17.0,Salaried,Female,3,5.0,Basic,5.0,Single,3.0,0,3,0,2.0,Executive,20094.0,1
+41.956840088049425,Company Invited,1,24.266281496840207,Salaried,Female,2,2.1294797358517283,Basic,3.0,Married,6.913680176098848,1,3,0,1.0,Executive,17759.82003832706,1
+43.0,Self Enquiry,1,18.0,Salaried,Male,2,4.0,Super Deluxe,4.0,Married,2.0,0,3,0,1.0,AVP,29336.0,0
+39.0,Self Enquiry,3,10.0,Salaried,Female,2,4.0,Deluxe,3.0,Divorced,5.0,0,5,1,0.0,Manager,20902.0,0
+46.08513162602245,Self Enquiry,3,21.45107897561347,Salaried,Male,3,5.908513162602246,Deluxe,3.1829736747955097,Married,7.451078975613471,0,1,0,1.9085131626022451,Manager,22099.536210601636,1
+40.0,Self Enquiry,3,6.0,Small Business,Male,2,5.0,Deluxe,3.0,Married,3.0,1,3,1,0.0,Manager,22457.0,0
+53.0,Company Invited,1,32.0,Small Business,Female,3,5.0,Super Deluxe,3.0,Married,5.0,0,5,0,2.0,AVP,32504.0,0
+33.0,Self Enquiry,1,8.0,Salaried,Female,2,3.0,Basic,5.0,Divorced,1.0,0,3,1,0.7222525683930663,Executive,17707.0,1
+34.0,Self Enquiry,1,14.0,Salaried,Female,2,3.0,Deluxe,5.0,Married,4.0,0,5,1,0.0,Manager,20121.0,0
+21.0,Self Enquiry,3,28.0,Small Business,Male,3,2.0,Basic,3.0,Unmarried,3.0,0,3,1,2.0,Executive,21356.0,0
+28.0,Company Invited,1,15.0,Salaried,Male,3,6.0,Basic,3.0,Married,3.0,0,1,1,2.0,Executive,23299.0,0
+27.0,Self Enquiry,2,27.0,Small Business,Female,4,4.0,Basic,4.0,Married,2.0,1,3,0,2.0,Executive,20826.0,1
+31.0,Self Enquiry,1,25.0,Salaried,Female,4,4.0,Basic,3.0,Unmarried,3.0,0,2,1,1.0,Executive,21310.0,0
+31.0,Company Invited,3,26.0,Salaried,Male,3,1.0,Basic,3.0,Divorced,1.0,0,5,1,1.0,Executive,17791.0,0
+40.0,Company Invited,3,30.0,Salaried,Female,3,1.0,Super Deluxe,4.0,Unmarried,5.0,1,3,1,0.0,AVP,28194.0,1
+39.0,Self Enquiry,3,11.0,Large Business,Male,2,3.0,Deluxe,3.0,Divorced,4.0,0,2,0,1.0,Manager,17086.0,1
+46.0,Company Invited,1,30.0,Salaried,Male,3,4.0,Deluxe,5.0,Married,3.0,1,1,1,1.0,Manager,22311.0,0
+29.0,Self Enquiry,1,6.0,Large Business,Male,2,3.0,Basic,3.0,Single,1.0,0,2,0,0.0,Executive,17058.0,1
+30.0,Company Invited,3,28.0,Salaried,Female,3,3.0,Standard,5.0,Married,1.0,0,1,1,1.0,Senior Manager,23412.0,0
+39.021936942293095,Company Invited,1,13.271239926107985,Large Business,Female,4,4.1041085819845735,Basic,4.8958914180154265,Single,4.791782836030852,1,3,0,2.104108581984574,Executive,20844.83286865588,1
+47.0,Self Enquiry,1,25.0,Small Business,Female,3,4.0,Deluxe,3.0,Married,4.0,0,5,0,1.0,Manager,23488.0,0
+34.0,Self Enquiry,3,15.0,Salaried,Female,3,3.0,Deluxe,3.0,Divorced,2.0,0,2,1,2.0,Manager,20714.0,0
+34.66699834338229,Self Enquiry,1,17.000497515073434,Small Business,Male,2,3.333499171691144,Deluxe,5.0,Married,3.3339966867645767,0,2,0,0.0,Manager,21128.00149254522,1
+34.0,Self Enquiry,3,15.0,Salaried,Male,3,4.0,Deluxe,5.0,Married,4.0,0,5,1,1.0,Manager,25070.0,0
+36.0,Self Enquiry,1,32.0,Salaried,Male,3,5.0,Deluxe,3.0,Unmarried,6.0,0,2,0,2.0,Manager,22359.0,0
+33.0,Self Enquiry,1,19.586987005318303,Small Business,Male,2,3.2355021657802823,King,3.117751082890141,Married,1.1177510828901411,1,4,1,0.1177510828901411,Manager,28607.056222927746,1
+34.0,Company Invited,1,10.0,Salaried,Female,3,4.0,Basic,3.0,Divorced,3.0,1,5,1,2.0,Executive,21587.0,0
+36.0,Self Enquiry,2,15.0,Large Business,Male,4,4.0,Basic,3.0,Unmarried,3.0,0,5,0,2.0,Executive,23001.0,0
+34.0,Company Invited,1,10.0,Salaried,Male,4,4.0,Basic,5.0,Unmarried,3.0,1,5,1,1.0,Executive,22026.0,1
+23.79486035951799,Self Enquiry,1,24.717765752287885,Salaried,Male,2,4.179441438071971,Basic,3.4102792809640143,Divorced,2.0,0,1,0,1.2051396404820072,Executive,16564.43642346217,1
+55.0,Self Enquiry,1,8.0,Large Business,Male,3,4.0,Basic,3.0,Married,1.0,0,5,0,0.0,Executive,17662.0,0
+39.0,Self Enquiry,1,22.0,Salaried,Male,4,5.0,Standard,3.0,Married,2.0,1,5,1,2.0,Senior Manager,30188.0,0
+35.0,Self Enquiry,3,22.0,Small Business,Female,4,4.0,Deluxe,5.0,Unmarried,3.0,0,1,1,3.0,Manager,24803.0,0
+19.0,Company Invited,3,6.0,Large Business,Female,3,5.0,Basic,5.0,Single,1.0,0,3,1,0.0,Executive,17325.0,1
+32.24431183941945,Company Invited,1,9.732935518258364,Salaried,Male,3,4.061077959854864,Basic,3.0610779598548636,Divorced,7.694610200725681,1,3,1,2.0,Executive,22401.282637156954,1
+29.0,Self Enquiry,3,9.0,Small Business,Female,3,3.0,Deluxe,3.0,Married,2.0,0,1,0,0.0,Manager,20561.0,0
+26.0,Self Enquiry,3,10.0,Salaried,Male,4,4.0,Deluxe,5.0,Divorced,3.0,1,4,1,1.0,Manager,22872.0,0
+30.0,Self Enquiry,3,17.0,Small Business,Female,3,5.0,Deluxe,4.0,Married,3.0,1,5,0,2.0,Manager,26946.0,0
+37.0,Self Enquiry,1,9.0,Salaried,Female,4,4.0,Deluxe,4.0,Married,6.0,1,4,0,1.0,Manager,25640.0,0
+31.0,Company Invited,1,10.0,Small Business,Female,4,4.0,Basic,3.0,Married,3.0,0,3,1,2.0,Executive,20761.0,0
+31.0,Self Enquiry,1,6.0,Small Business,Male,2,3.0,Basic,4.0,Single,2.0,0,3,0,0.0,Executive,17501.0,0
+32.0,Self Enquiry,1,11.0,Small Business,Female,4,2.0,Basic,3.0,Married,2.0,0,5,1,3.0,Executive,22656.0,0
+48.0,Self Enquiry,1,16.0,Salaried,Female,4,4.0,Basic,3.0,Single,6.0,0,3,1,1.0,Executive,20783.0,0
+43.0,Self Enquiry,3,21.0,Small Business,Female,4,5.0,Deluxe,3.0,Unmarried,2.0,0,3,1,1.0,Manager,24922.0,0
+31.0,Self Enquiry,1,31.0,Salaried,Male,4,4.0,Basic,3.0,Married,3.0,0,3,1,3.0,Executive,21371.0,0
+26.0,Self Enquiry,3,16.0,Salaried,Male,4,5.0,Basic,5.0,Divorced,5.0,0,1,1,1.0,Executive,23078.0,1
+26.0,Self Enquiry,1,30.0,Large Business,Male,3,5.0,Basic,3.0,Single,2.0,1,3,0,1.0,Executive,17340.0,1
+48.0,Self Enquiry,3,9.0,Salaried,Female,4,5.0,Basic,3.0,Unmarried,3.0,1,1,0,1.0,Executive,21972.0,0
+42.0,Self Enquiry,3,27.0,Small Business,Female,4,4.0,Basic,4.0,Unmarried,3.0,1,4,0,2.0,Executive,21818.0,1
+33.0,Self Enquiry,1,16.0,Small Business,Female,3,4.0,Basic,5.0,Unmarried,2.0,0,4,1,2.0,Executive,22878.0,1
+22.0,Self Enquiry,3,19.0,Salaried,Female,3,3.0,Basic,4.0,Unmarried,3.0,0,5,0,2.0,Executive,21394.0,1
+40.0,Self Enquiry,1,7.0,Small Business,Female,4,4.0,Basic,3.0,Married,2.0,0,3,1,1.0,Executive,20910.0,0
+50.0,Self Enquiry,1,15.0,Salaried,Female,3,4.0,Standard,4.0,Divorced,6.0,0,4,0,1.0,Senior Manager,26081.0,0
+33.0,Self Enquiry,1,13.0,Small Business,Male,2,3.0,Standard,3.0,Married,1.0,0,4,1,0.0,Senior Manager,26691.0,0
+36.0,Company Invited,1,9.0,Salaried,Female,4,4.0,Deluxe,5.0,Married,4.0,0,4,1,3.0,Manager,23771.0,0
+48.0,Self Enquiry,3,21.0,Small Business,Male,3,4.0,Deluxe,5.0,Unmarried,4.0,0,2,0,2.0,Manager,23638.0,0
+38.0,Self Enquiry,3,13.0,Small Business,Female,2,2.0,Deluxe,5.0,Married,2.0,1,3,0,0.0,Manager,20605.0,0
+23.0,Self Enquiry,1,22.0,Small Business,Female,3,4.0,Basic,3.0,Unmarried,3.0,0,2,1,2.0,Executive,21549.0,0
+29.70143828535685,Company Invited,1,26.835881928973546,Large Business,Male,2,5.0,Basic,3.9253595713392126,Married,2.0,0,2,1,0.5373202143303936,Executive,17299.477516999374,1
+30.0,Self Enquiry,1,35.0,Small Business,Female,4,5.0,Basic,5.0,Unmarried,3.0,0,1,0,2.0,Executive,22463.0,0
+24.105528058210496,Self Enquiry,1,12.971859184477202,Salaried,Female,3,2.0070352038806996,Basic,4.985929592238601,Divorced,3.014070407761399,1,3,0,1.0,Executive,20278.71155664089,1
+36.0,Company Invited,1,7.0,Small Business,Male,4,4.0,Basic,5.0,Divorced,6.0,0,2,0,2.0,Executive,20872.0,0
+30.547218265588594,Company Invited,1,10.907988584007128,Salaried,Female,3,4.181597716801425,Basic,3.0,Unmarried,3.0,0,4,1,2.181597716801426,Executive,22744.748216903863,1
+28.0,Company Invited,3,10.0,Small Business,Female,4,3.0,Deluxe,3.0,Married,3.0,1,2,1,3.0,Manager,23325.0,0
+23.0,Self Enquiry,1,32.0,Salaried,Male,2,3.0,Basic,3.0,Married,2.0,0,1,0,1.0,Executive,17904.0,0
+46.0,Self Enquiry,1,36.0,Small Business,Male,3,4.0,Basic,3.0,Unmarried,7.0,0,2,1,1.0,Executive,22130.0,0
+29.0,Self Enquiry,3,8.0,Small Business,Male,3,4.0,Deluxe,4.0,Divorced,3.0,0,4,0,1.0,Manager,21644.0,0
+30.754795191117147,Self Enquiry,1,11.783653012741144,Salaried,Male,2,3.0,Basic,4.783653012741143,Single,2.567306025482286,0,2,1,0.7836530127411431,Executive,17967.3557975668,1
+29.0,Self Enquiry,1,31.0,Small Business,Male,3,4.0,Basic,4.0,Married,3.0,1,1,0,1.0,Executive,21086.0,1
+23.0,Self Enquiry,1,22.0,Small Business,Female,3,4.0,Basic,3.0,Unmarried,3.0,0,1,1,2.0,Executive,21549.0,0
+27.0,Company Invited,1,30.0,Salaried,Male,3,4.0,Basic,3.0,Single,2.0,1,3,1,1.0,Executive,17534.0,1
+52.0,Company Invited,3,13.0,Small Business,Female,3,3.0,Basic,3.0,Married,3.0,1,4,1,2.0,Executive,23446.0,1
+33.0,Self Enquiry,1,10.0,Small Business,Female,2,4.0,Basic,4.0,Married,7.0,0,4,0,1.0,Executive,17622.0,0
+24.0,Self Enquiry,1,23.0,Salaried,Female,3,3.0,Basic,4.0,Divorced,2.0,0,1,0,1.4390620284646136,Executive,17210.0,1
+32.0,Self Enquiry,1,14.0,Salaried,Male,3,4.0,Deluxe,3.0,Married,5.0,0,3,0,2.0,Manager,24593.0,0
+32.0,Self Enquiry,1,31.0,Small Business,Female,4,5.0,Deluxe,5.0,Unmarried,3.0,0,5,0,3.0,Manager,25490.0,0
+32.0,Self Enquiry,2,15.0,Small Business,Female,4,2.0,Basic,4.0,Single,2.0,0,1,0,3.0,Executive,20787.0,0
+39.0,Company Invited,1,9.0,Salaried,Female,4,2.0,Deluxe,5.0,Unmarried,8.0,1,1,0,1.0,Manager,24658.0,0
+37.0,Self Enquiry,3,12.0,Small Business,Male,3,3.0,Deluxe,3.0,Married,5.0,0,3,1,0.0,Manager,21502.0,0
+39.0,Self Enquiry,1,16.0,Salaried,Male,4,4.0,Basic,3.0,Married,4.0,0,1,1,2.0,Executive,23449.0,0
+35.0,Company Invited,1,14.0,Salaried,Male,4,6.0,Deluxe,3.0,Unmarried,3.0,1,5,1,1.5277011090863,Manager,24752.0,1
+52.0,Company Invited,1,15.0,Salaried,Male,3,6.0,Standard,3.0,Single,4.0,0,1,0,1.229087796254178,Senior Manager,29328.0,1
+32.0,Self Enquiry,3,10.0,Small Business,Male,2,5.0,Standard,3.0,Divorced,2.0,0,1,1,0.960573188631494,Senior Manager,25400.0,1
+30.0,Self Enquiry,2,13.0,Small Business,Male,3,5.0,Basic,4.0,Married,3.0,0,3,1,2.0,Executive,21482.0,0
+25.0,Self Enquiry,1,24.0,Small Business,Female,3,5.0,Deluxe,3.0,Married,3.0,0,3,1,2.0,Manager,23055.0,0
+46.0,Self Enquiry,3,16.0,Small Business,Female,3,4.0,Standard,3.0,Married,3.0,1,1,0,0.0,Senior Manager,24071.0,0
+31.787253095233325,Company Invited,1,16.83692388887776,Salaried,Male,2,4.262417698411109,Basic,5.0,Married,1.2624176984111086,1,3,1,0.0,Executive,17317.326152222246,1
+30.519708762443617,Company Invited,2,6.0,Salaried,Female,2,3.240145618778193,Basic,4.240145618778193,Married,2.0,1,4,0,0.7598543812218069,Executive,17306.08247551923,1
+25.0,Company Invited,1,9.0,Large Business,Female,3,4.0,Basic,3.0,Unmarried,3.0,1,3,1,2.0,Executive,22438.0,0
+54.0,Self Enquiry,1,13.0,Small Business,Female,3,3.0,Deluxe,3.0,Married,5.0,0,3,1,1.0,Manager,21854.0,0
+34.0,Company Invited,1,7.0,Salaried,Female,4,4.0,Standard,3.0,Single,3.0,1,2,1,1.0,Senior Manager,32136.0,0
+57.0,Self Enquiry,1,21.0,Salaried,Female,4,4.0,Basic,4.0,Married,2.0,1,5,1,1.0,Executive,23641.0,1
+28.0,Self Enquiry,1,7.0,Small Business,Male,3,4.0,Basic,4.0,Married,3.0,0,3,0,1.0,Executive,22494.0,0
+29.0,Company Invited,3,7.0,Salaried,Male,3,5.0,Deluxe,3.0,Married,3.0,1,1,0,1.0,Manager,25512.0,0
+49.0,Self Enquiry,1,13.0,Salaried,Male,4,5.0,Deluxe,3.0,Unmarried,4.0,0,2,0,1.0,Manager,22918.0,0
+32.0,Self Enquiry,1,8.0,Small Business,Female,3,1.0,Deluxe,3.0,Single,1.0,0,3,0,0.0,Manager,20055.0,0
+36.0,Self Enquiry,1,16.0,Salaried,Female,4,5.0,Standard,3.0,Divorced,3.0,1,4,1,2.0,Senior Manager,29363.0,0
+28.0,Self Enquiry,1,11.0,Salaried,Male,3,2.0,Deluxe,4.0,Married,3.0,1,4,1,1.0,Manager,24820.0,0
+36.68049117561474,Self Enquiry,1,9.0,Small Business,Male,3,4.0,Deluxe,4.0,Married,6.0,0,4,0,1.38658480406421,Manager,23543.8243745138,1
+39.11036714573493,Company Invited,3,8.0,Salaried,Female,2,3.5125688017504864,Basic,3.5125688017504864,Single,3.9748623964990273,0,3,1,1.0251376035009727,Executive,20027.244680346623,1
+32.0,Self Enquiry,1,16.0,Small Business,Male,1,3.0,Standard,3.0,Unmarried,3.0,0,1,0,0.0,Senior Manager,26244.0,0
+39.0,Self Enquiry,3,9.0,Small Business,Female,4,6.0,Deluxe,3.0,Married,4.0,1,3,0,1.0,Manager,24083.0,0
+28.0,Self Enquiry,3,9.0,Small Business,Male,3,4.0,Basic,5.0,Married,2.0,0,5,0,2.0,Executive,21719.0,1
+39.0,Self Enquiry,1,7.0,Salaried,Female,3,3.0,Deluxe,3.0,Unmarried,2.0,0,2,1,2.0,Manager,26303.0,0
+23.0,Self Enquiry,1,12.0,Salaried,Male,3,1.0,Basic,5.0,Divorced,2.0,1,3,1,2.0,Executive,16601.0,1
+50.0,Self Enquiry,1,10.0,Salaried,Male,3,3.0,King,4.0,Married,4.0,0,5,0,1.0,VP,34144.0,0
+29.80021537152275,Self Enquiry,1,7.654623771462818,Large Business,Male,2,3.836344057134295,Basic,4.672688114268591,Married,6.509032171402886,0,2,0,1.0,Executive,17080.981935657193,1
+32.0,Self Enquiry,1,30.0,Small Business,Male,4,5.0,Deluxe,3.0,Married,2.0,0,3,0,2.0,Manager,24260.0,0
+26.0,Self Enquiry,3,35.0,Salaried,Male,3,5.0,Deluxe,3.0,Married,4.0,0,4,1,2.0,Manager,27317.0,0
+58.0,Self Enquiry,1,8.0,Large Business,Male,2,3.0,Basic,3.0,Single,5.0,0,2,1,1.0,Executive,17479.0,1
+31.0,Company Invited,3,6.0,Salaried,Female,2,3.0,Basic,4.0,Single,2.0,1,5,1,1.0,Executive,17302.0,1
+32.0,Company Invited,1,9.0,Salaried,Female,2,3.0,Basic,3.0,Single,2.0,0,4,1,0.0,Executive,21209.0,1
+35.0,Self Enquiry,1,14.0,Salaried,Male,4,4.0,Deluxe,3.0,Married,3.0,0,3,0,1.0,Manager,21263.0,1
+53.89521271200488,Self Enquiry,1,10.458510653712892,Large Business,Male,3,4.0,Basic,3.0,Married,3.082978692574215,0,1,0,1.270744673143554,Executive,21143.873404116584,1
+28.0,Self Enquiry,1,22.0,Small Business,Male,3,2.0,Deluxe,5.0,Single,1.0,0,5,0,2.0,Manager,20661.0,0
+29.0,Self Enquiry,1,31.0,Large Business,Female,3,4.0,Basic,4.0,Divorced,6.0,0,3,0,2.0,Executive,17546.0,1
+44.0,Company Invited,1,29.0,Small Business,Male,3,3.0,Deluxe,4.0,Divorced,5.0,0,3,1,0.0,Manager,17042.0,0
+37.0,Self Enquiry,1,22.0,Salaried,Male,3,4.0,Deluxe,3.0,Married,2.0,0,4,0,2.0,Manager,23512.0,1
+34.0,Self Enquiry,3,8.0,Salaried,Male,2,3.0,Deluxe,3.0,Single,2.0,0,5,0,1.0,Manager,21274.0,0
+39.155324684639176,Company Invited,3,12.702961009154633,Small Business,Female,3,3.8310649369278353,Deluxe,3.0,Divorced,5.324259747711341,1,3,1,2.1689350630721647,Manager,23927.14971416276,1
+41.0,Company Invited,1,23.0,Salaried,Male,4,4.0,Basic,3.0,Married,2.0,0,3,1,3.0,Executive,22222.0,0
+31.0,Self Enquiry,2,16.0,Salaried,Male,3,4.0,Deluxe,3.0,Divorced,2.0,1,3,1,2.0,Manager,25025.0,0
+44.0,Self Enquiry,2,6.0,Small Business,Male,3,4.0,Standard,5.0,Married,1.0,0,4,1,0.0,Senior Manager,25482.0,1
+19.0,Self Enquiry,2,8.0,Large Business,Male,2,4.0,Basic,3.0,Single,2.0,0,3,1,1.0,Executive,17564.0,1
+26.0,Self Enquiry,1,7.0,Salaried,Female,4,4.0,Deluxe,3.0,Divorced,2.0,0,3,1,2.0,Manager,23576.0,0
+27.0,Self Enquiry,1,13.0,Salaried,Female,3,5.0,Basic,4.0,Married,3.0,0,3,1,2.0,Executive,21046.0,0
+39.0,Self Enquiry,1,22.0,Salaried,Male,4,5.0,Standard,3.0,Married,2.0,1,5,1,3.0,Senior Manager,30188.0,0
+40.0,Self Enquiry,3,28.0,Small Business,Male,3,4.0,Deluxe,3.0,Divorced,3.0,1,3,1,1.0,Manager,21380.0,1
+43.0,Self Enquiry,1,12.0,Salaried,Male,2,4.0,Super Deluxe,3.0,Married,5.0,1,3,1,0.0,AVP,31627.0,0
+22.994413927593452,Company Invited,1,17.497206963796724,Salaried,Female,3,4.900558607240654,Basic,3.0,Single,3.0,0,4,1,1.0,Executive,21301.50837910861,1
+26.0,Self Enquiry,1,22.0,Small Business,Male,2,3.0,Basic,4.0,Married,3.0,1,2,1,1.0,Executive,17373.0,1
+32.91546786929301,Company Invited,1,23.4084532130707,Salaried,Female,3,2.816906426141397,Basic,4.183093573858603,Single,2.5915467869293014,0,2,0,1.4084532130706986,Executive,21420.183093573854,1
+28.74650011810893,Company Invited,1,29.68312514763616,Salaried,Male,2,4.0,Basic,3.0633749704727675,Married,2.0,1,2,0,1.9366250295272325,Executive,17437.352250767708,1
+31.0,Self Enquiry,1,8.0,Small Business,Female,2,5.0,Basic,3.0,Married,2.0,1,5,1,0.0,Executive,16129.0,0
+44.02987405364852,Self Enquiry,2,13.146226703432664,Salaried,Female,2,4.794025189270296,Deluxe,3.0,Single,1.0,0,2,0,0.794025189270296,Manager,20353.20911837554,1
+58.0,Self Enquiry,1,8.0,Large Business,Female,3,4.0,Standard,3.0,Married,1.0,0,5,0,0.0,Senior Manager,17372.0,1
+40.3524361309494,Self Enquiry,1,11.6563805448734,Salaried,Male,4,4.3348027793038,Deluxe,3.6651972206962,Unmarried,2.6651972206962,1,3,0,1.6651972206962,Executive,24047.026450027468,1
+46.0,Self Enquiry,1,8.0,Large Business,Male,2,3.0,Deluxe,3.0,Married,3.0,0,2,1,0.0,Manager,22379.0,0
+32.0,Self Enquiry,3,14.0,Large Business,Female,3,4.0,Deluxe,4.0,Divorced,2.0,1,2,1,0.0,Manager,20228.0,0
+33.0,Self Enquiry,1,8.0,Salaried,Female,2,3.0,Basic,5.0,Married,1.0,0,3,1,1.0,Executive,17707.0,1
+59.0,Self Enquiry,1,9.0,Large Business,Male,3,4.0,Basic,3.0,Single,6.0,0,2,1,2.0,Executive,21157.0,1
+26.0,Self Enquiry,1,30.0,Large Business,Male,3,5.0,Basic,3.0,Single,2.0,1,3,1,2.0,Executive,17340.0,1
+28.0,Company Invited,1,8.0,Small Business,Male,2,4.0,Basic,5.0,Single,1.0,0,4,0,0.0,Executive,17561.0,1
+33.33573068612975,Company Invited,2,21.040766914554546,Small Business,Female,2,3.0,Basic,4.4508393714041325,Single,2.450839371404132,1,3,0,1.549160628595868,Executive,18154.426859884938,1
+37.0,Self Enquiry,1,6.0,Salaried,Male,2,4.0,Deluxe,3.0,Married,2.0,0,5,0,0.0,Manager,20993.0,0
+53.949971854147485,Company Invited,2,14.364329943482524,Salaried,Male,2,3.578575449407502,Deluxe,3.421424550592498,Single,3.314301797630008,1,3,1,1.5785754494075022,Manager,35005.090989622644,1
+37.0,Self Enquiry,2,20.0,Salaried,Male,3,4.0,Basic,4.0,Divorced,6.0,0,3,1,1.0,Executive,20821.0,0
+49.0,Self Enquiry,1,14.0,Salaried,Female,2,3.0,Standard,4.0,Divorced,5.0,0,4,0,0.0,Senior Manager,22403.0,0
+37.0,Company Invited,2,9.0,Salaried,Male,4,5.0,Deluxe,3.0,Unmarried,3.0,0,3,1,1.0,Manager,22564.0,0
+29.252609199793337,Company Invited,2,6.403244030816923,Salaried,Female,2,4.7311706461220515,Basic,3.0,Single,2.0,0,3,1,0.8655853230610258,Executive,16367.199295293278,1
+55.0,Self Enquiry,1,8.0,Small Business,Male,2,4.0,King,5.0,Married,1.0,0,5,0,1.0,VP,34038.0,0
+18.0,Self Enquiry,1,9.0,Salaried,Male,2,3.0,Basic,3.0,Single,2.0,0,4,0,0.0,Executive,16420.0,1
+46.0,Self Enquiry,3,15.0,Small Business,Male,3,4.0,Standard,3.0,Unmarried,2.0,0,5,0,1.0,Senior Manager,24619.0,1
+28.0,Self Enquiry,1,13.0,Small Business,Female,4,5.0,Basic,3.0,Married,2.0,0,1,0,2.0,Executive,20865.0,0
+56.0,Company Invited,3,12.0,Salaried,Female,2,2.0,Super Deluxe,5.0,Divorced,1.0,0,3,1,0.0,AVP,28212.0,0
+29.0,Self Enquiry,1,10.207760693489076,Salaried,Male,3,5.194826204340616,Basic,3.0,Married,5.389652408681233,1,2,0,1.0,Executive,22132.740501349916,1
+23.0,Self Enquiry,1,12.0,Salaried,Male,3,1.0,Basic,5.0,Married,2.0,1,3,0,0.0,Executive,16601.0,1
+46.87150157293142,Self Enquiry,3,28.596268344460185,Salaried,Male,2,3.550466456942477,Deluxe,3.550466456942477,Married,2.0,0,5,1,1.2752332284712384,Manager,29014.440204404207,1
+25.0,Self Enquiry,3,14.0,Salaried,Female,2,3.0,Deluxe,3.0,Married,1.0,1,1,1,1.0,Manager,19907.0,0
+42.87694826750637,Company Invited,1,21.073831039496177,Salaried,Male,3,4.5950779307002545,Deluxe,4.4049220692997455,Married,3.19015586140051,0,1,1,1.595077930700255,Manager,23660.706973137872,1
+46.0,Company Invited,1,11.0,Salaried,Male,3,4.0,Deluxe,4.0,Married,3.0,0,4,1,1.0,Manager,23125.0,0
+36.0,Self Enquiry,1,18.0,Small Business,Female,2,4.0,Standard,3.0,Unmarried,1.0,0,2,1,0.0,Senior Manager,23858.0,0
+28.0,Company Invited,3,27.0,Salaried,Female,3,4.0,Deluxe,3.0,Single,3.0,0,2,1,2.0,Manager,28659.0,0
+34.0,Self Enquiry,1,16.0,Small Business,Male,2,3.0,Deluxe,5.0,Single,2.0,0,4,0,0.0,Manager,21125.0,1
+34.230489080660675,Self Enquiry,1,10.461382822589265,Large Business,Male,3,3.307723435482147,Basic,5.0,Married,5.615446870964295,0,2,1,0.3077234354821475,Executive,17075.154064048376,1
+45.231370706253585,Company Invited,3,8.057842676563396,Large Business,Male,3,4.057842676563396,Basic,3.0578426765633964,Married,4.826471970309811,0,2,1,1.9421573234366036,Executive,26651.372585874928,1
+34.0,Self Enquiry,2,9.0,Salaried,Male,3,4.0,Basic,3.0,Divorced,3.0,0,2,0,1.0,Executive,22278.0,0
+44.0,Self Enquiry,1,15.0,Salaried,Male,3,3.0,Basic,5.0,Married,2.0,1,3,1,0.0,Executive,17559.0,0
+57.0,Company Invited,1,7.0,Salaried,Male,3,4.0,Deluxe,3.0,Married,3.0,0,3,0,1.0,Manager,24984.0,0
+35.0,Company Invited,1,9.0,Salaried,Male,3,5.0,Deluxe,3.0,Divorced,3.0,0,4,0,1.0,Manager,28225.0,0
+51.273626971330046,Company Invited,2,10.201947698759522,Salaried,Female,2,3.83061940778773,Basic,3.0,Married,1.0,0,5,0,0.0,Executive,28582.589559543005,1
+43.0,Company Invited,1,12.0,Salaried,Male,4,4.0,Basic,3.0,Divorced,6.0,0,3,1,1.0,Executive,20771.0,0
+23.0,Company Invited,1,10.0,Salaried,Male,3,5.0,Basic,3.0,Married,2.0,1,3,0,2.0,Executive,21531.0,1
+37.0,Company Invited,1,15.0,Salaried,Female,4,3.0,Standard,5.0,Divorced,2.0,0,3,0,1.0,Senior Manager,30391.0,0
+39.0,Self Enquiry,1,36.0,Small Business,Male,4,4.0,Deluxe,5.0,Married,2.0,1,3,1,3.0,Manager,25351.0,1
+21.0,Self Enquiry,2,17.49607588207906,Salaried,Female,2,3.0,Basic,3.5912658289019035,Single,2.0,0,4,1,1.4087341710980965,Executive,17684.722278395373,1
+28.0,Self Enquiry,1,7.0,Salaried,Female,4,4.0,Standard,5.0,Divorced,3.0,0,4,1,3.0,Senior Manager,26090.0,0
+31.0,Company Invited,3,32.0,Large Business,Female,3,4.0,Deluxe,3.0,Divorced,2.0,1,3,1,1.0,Manager,23414.0,0
+33.0,Self Enquiry,3,15.0,Small Business,Female,3,3.0,Deluxe,5.0,Unmarried,1.0,1,3,0,1.0,Manager,23224.0,1
+44.0,Self Enquiry,1,10.0,Small Business,Male,2,3.0,Deluxe,4.0,Single,1.0,0,1,1,1.0,Manager,20933.0,0
+42.0,Self Enquiry,1,8.0,Small Business,Male,2,3.0,Super Deluxe,5.0,Divorced,1.0,0,3,1,1.0,AVP,32665.0,0
+34.0,Self Enquiry,1,21.0,Small Business,Female,4,4.0,Basic,4.0,Divorced,3.0,0,5,0,1.0,Executive,21434.0,0
+45.0,Self Enquiry,1,6.0,Salaried,Male,3,2.0,King,3.0,Divorced,1.0,0,4,1,2.0,VP,34202.0,0
+33.0,Self Enquiry,1,8.0,Salaried,Female,2,3.0,Basic,5.0,Divorced,1.0,0,3,1,0.60617463445088,Executive,17707.0,1
+43.0,Self Enquiry,1,9.0,Small Business,Female,3,5.0,Basic,5.0,Married,2.0,1,4,1,1.0,Executive,21271.0,0
+39.0,Self Enquiry,1,16.0,Small Business,Male,2,3.0,Super Deluxe,5.0,Divorced,2.0,1,3,1,1.0,AVP,32068.0,0
+46.0,Company Invited,3,11.0,Small Business,Male,3,3.0,Deluxe,3.0,Single,5.0,1,5,1,1.0,Manager,20772.0,0
+31.0,Company Invited,1,16.0,Small Business,Female,2,3.0,Standard,3.0,Married,5.0,0,1,1,1.0,Senior Manager,26031.0,0
+38.0,Company Invited,1,16.0,Small Business,Male,3,3.0,Basic,3.0,Married,1.0,0,5,0,0.0,Executive,17684.0,0
+30.0,Self Enquiry,1,23.0,Small Business,Female,3,3.0,Standard,5.0,Divorced,2.0,1,4,0,2.0,Senior Manager,26916.0,0
+23.0,Self Enquiry,1,7.0,Salaried,Male,3,5.0,Deluxe,3.0,Married,8.0,0,1,1,2.0,Manager,23453.0,0
+47.0,Company Invited,1,22.0,Small Business,Male,3,1.0,Deluxe,3.0,Married,2.0,1,1,1,0.0,Manager,20067.0,0
+45.0,Self Enquiry,3,19.0,Small Business,Male,2,1.0,Super Deluxe,3.0,Single,7.0,1,3,1,0.0,AVP,33824.0,1
+46.0,Self Enquiry,1,8.0,Salaried,Male,2,3.0,Super Deluxe,3.0,Divorced,7.0,0,5,0,0.0,AVP,32861.0,0
+27.0,Company Invited,2,24.0,Salaried,Female,3,4.0,Basic,3.0,Married,2.0,1,5,0,2.0,Executive,21419.0,1
+30.0,Company Invited,1,9.0,Salaried,Male,2,3.0,Basic,3.0,Married,5.0,0,3,1,0.0,Executive,17097.0,0
+20.0,Self Enquiry,3,12.0,Salaried,Male,4,4.0,Standard,4.0,Unmarried,2.0,1,4,1,1.0,Senior Manager,21672.0,1
+46.1853541195703,Company Invited,2,14.386981439618044,Salaried,Female,3,5.395118039856767,Standard,3.403254640095489,Married,2.0,0,4,1,1.596745359904511,AVP,31716.6283059043,1
+41.0,Company Invited,3,12.0,Salaried,Male,3,5.0,Standard,5.0,Married,7.0,1,5,0,1.0,Senior Manager,29153.0,0
+60.0,Self Enquiry,2,13.0,Small Business,Male,3,4.0,Basic,3.0,Married,2.0,0,4,0,1.0,Executive,20945.0,0
+46.0,Self Enquiry,1,14.0,Small Business,Female,3,4.0,Basic,3.0,Married,6.0,1,3,0,2.0,Executive,23155.0,0
+44.0,Self Enquiry,1,10.0,Small Business,Male,2,3.0,Deluxe,4.0,Single,1.0,0,2,1,0.0,Manager,20933.0,0
+21.0,Company Invited,3,16.0,Small Business,Female,3,4.0,Basic,3.0,Single,3.0,1,4,1,1.0,Executive,21001.0,1
+31.0,Company Invited,1,16.0,Small Business,Male,3,4.0,Basic,5.0,Unmarried,4.0,1,3,0,2.0,Executive,23373.0,1
+38.0,Self Enquiry,1,10.0,Salaried,Male,3,4.0,Standard,3.0,Married,3.0,0,1,1,1.0,Senior Manager,28112.0,0
+26.0,Self Enquiry,1,6.0,Salaried,Female,2,4.0,Basic,3.0,Married,2.0,1,4,0,0.0,Executive,17933.0,0
+31.0,Company Invited,3,29.0,Salaried,Female,4,4.0,Standard,5.0,Married,2.0,0,1,1,2.0,Senior Manager,27090.0,0
+28.0,Self Enquiry,1,24.0,Salaried,Female,3,4.0,Basic,3.0,Single,3.0,1,5,1,1.0,Executive,21072.0,1
+43.0,Company Invited,3,21.0,Salaried,Male,2,4.0,Deluxe,3.0,Divorced,4.0,0,5,0,1.0,Manager,21804.0,0
+32.0,Company Invited,1,22.0,Small Business,Male,4,4.0,Basic,3.0,Divorced,3.0,0,4,1,2.577103986006911,Executive,21288.0,1
+31.0,Company Invited,3,8.0,Salaried,Female,2,4.0,Basic,3.0,Single,1.0,0,5,0,1.0,Executive,17785.0,1
+37.0,Self Enquiry,1,9.0,Salaried,Female,4,4.0,Basic,3.0,Married,6.0,0,5,1,1.0,Executive,21221.0,0
+36.0,Self Enquiry,1,7.0,Small Business,Female,3,5.0,Deluxe,3.0,Divorced,2.0,0,1,1,2.0,Manager,24041.0,0
+30.0,Self Enquiry,1,9.0,Large Business,Female,2,3.0,Basic,5.0,Single,6.0,1,4,0,0.0,Executive,17657.0,1
+60.0,Self Enquiry,3,22.0,Small Business,Male,2,3.0,Deluxe,5.0,Single,1.0,0,4,1,1.0,Manager,20405.0,0
+30.0,Self Enquiry,2,15.0,Salaried,Male,2,3.0,Deluxe,3.0,Divorced,1.0,1,3,1,1.0,Manager,21347.0,0
+27.0,Company Invited,1,7.0,Small Business,Female,4,5.0,Basic,3.0,Married,3.0,0,2,1,1.0,Executive,20685.0,0
+29.73022575304624,Company Invited,2,31.17443561738441,Salaried,Female,2,3.5476693147846774,King,3.365112876523118,Married,2.182556438261559,0,3,0,0.1825564382615591,Manager,22631.332629593013,1
+40.0,Self Enquiry,3,14.0,Salaried,Male,4,4.0,Basic,3.0,Married,3.0,1,1,1,3.0,Executive,23212.0,1
+57.78477845190165,Company Invited,1,19.240486532438528,Large Business,Female,2,3.1519026935122945,King,3.0,Single,1.6076107740491774,1,5,1,0.1519026935122943,Manager,25506.227697646533,1
+27.29563699936292,Company Invited,1,12.965270502229782,Salaried,Female,3,4.85218150031854,King,4.7043630006370805,Divorced,2.44345549904438,0,3,1,1.85218150031854,Manager,21558.025828989168,1
+35.0,Self Enquiry,1,10.0,Salaried,Male,3,3.0,Basic,3.0,Married,2.0,0,4,1,1.0,Executive,16951.0,0
+37.0,Self Enquiry,1,12.0,Small Business,Male,2,1.0,Deluxe,5.0,Married,5.0,1,3,1,1.0,Manager,20974.0,0
+25.41118042288444,Company Invited,2,7.0,Large Business,Female,4,5.487311488983491,Basic,4.0,Single,2.5126885110165085,1,3,1,2.025377022033017,Executive,20872.467082537307,1
+26.0,Self Enquiry,3,35.0,Salaried,Male,3,5.0,Deluxe,3.0,Divorced,4.0,0,4,0,1.0,Manager,27317.0,0
+24.0,Self Enquiry,1,15.0,Small Business,Male,4,5.0,Basic,3.0,Unmarried,3.0,1,4,1,3.0,Executive,22667.0,1
+29.0,Company Invited,3,30.0,Large Business,Male,2,1.0,Basic,5.0,Single,2.0,0,3,1,1.0,Executive,16091.0,1
+37.64531259684033,Company Invited,3,9.108634853130477,Salaried,Male,2,4.702878284376825,King,3.0,Married,2.0,0,1,1,0.59424343124635,Manager,25401.78273029374,1
+32.0,Self Enquiry,1,16.0,Salaried,Male,3,4.0,Standard,4.0,Married,3.0,0,3,1,2.0,Senior Manager,29326.0,0
+21.0,Self Enquiry,3,18.0,Salaried,Female,2,1.0,Basic,4.0,Single,2.0,0,5,0,1.0,Executive,17716.0,1
+32.0,Self Enquiry,1,35.0,Salaried,Female,2,4.0,Basic,4.0,Single,2.0,0,3,1,0.0,Executive,17837.0,0
+37.0,Self Enquiry,1,13.0,Salaried,Male,3,4.0,Basic,3.0,Divorced,2.0,0,5,1,2.0,Executive,21888.0,0
+22.0,Company Invited,1,32.0,Salaried,Female,2,4.0,Basic,3.0,Married,2.0,1,3,0,0.0,Executive,17814.0,0
+38.0,Self Enquiry,3,13.0,Small Business,Male,4,4.0,Deluxe,3.0,Married,6.0,0,3,1,1.0,Manager,25180.0,0
+49.0,Self Enquiry,1,7.0,Salaried,Female,3,5.0,Super Deluxe,5.0,Divorced,2.0,0,4,0,2.0,AVP,34080.0,0
+29.0,Company Invited,1,31.0,Large Business,Male,4,5.0,Standard,5.0,Unmarried,3.0,0,1,1,2.0,Senior Manager,27400.0,1
+24.0,Company Invited,1,15.0,Small Business,Male,2,3.0,Basic,5.0,Single,3.0,1,3,0,1.0,Executive,18172.0,1
+27.0,Self Enquiry,1,31.0,Large Business,Male,4,6.0,Basic,3.0,Single,3.0,1,3,0,2.0,Executive,21018.0,1
+48.0,Company Invited,1,23.0,Small Business,Male,4,2.0,Deluxe,3.0,Married,3.0,1,1,1,1.0,Manager,23745.0,0
+38.0,Self Enquiry,1,7.0,Salaried,Female,4,4.0,Deluxe,4.0,Divorced,8.0,0,2,1,2.0,Manager,25125.0,0
+36.0,Self Enquiry,1,23.0,Small Business,Male,3,3.0,Basic,4.0,Divorced,2.0,0,3,1,2.0,Executive,21104.0,0
+38.0,Self Enquiry,1,18.0,Small Business,Female,4,6.0,Deluxe,4.0,Married,7.0,0,4,1,1.0,Manager,23455.0,1
+34.0,Self Enquiry,3,8.0,Salaried,Male,2,3.0,Deluxe,3.0,Single,2.0,0,5,0,0.0,Manager,21274.0,0
+30.029287133659704,Company Invited,2,11.278052206119948,Salaried,Female,3,4.360973896940027,Basic,3.0,Married,2.6390261030599733,1,2,0,1.0,Executive,21529.72194779388,1
+24.0,Self Enquiry,3,6.0,Large Business,Female,3,3.0,Basic,4.0,Single,2.0,1,4,0,0.6638297268587077,Executive,18202.0,1
+21.0,Company Invited,1,13.0,Salaried,Female,4,5.0,Basic,3.0,Unmarried,3.0,1,1,0,1.0,Executive,21604.0,1
+27.0,Self Enquiry,1,31.0,Large Business,Male,4,6.0,Basic,3.0,Single,3.0,1,3,0,2.818119915600855,Executive,21018.0,1
+33.0,Self Enquiry,1,8.0,Salaried,Female,2,3.0,Basic,5.0,Divorced,1.0,0,3,1,0.7713571944965373,Executive,17707.0,1
+33.0,Self Enquiry,1,31.0,Small Business,Male,2,4.0,Basic,4.0,Single,5.0,1,4,0,0.0,Executive,17313.0,1
+37.0,Self Enquiry,3,17.0,Small Business,Male,3,5.0,Standard,5.0,Married,2.0,0,5,0,1.0,Senior Manager,25772.0,1
+39.0,Self Enquiry,3,9.0,Small Business,Female,2,3.0,Deluxe,3.0,Married,5.0,1,4,1,1.0,Manager,20238.0,1
+38.2505966546316,Self Enquiry,1,9.375894981947402,Free Lancer,Male,3,4.8747016726842,Basic,3.0,Married,7.624105018052598,0,2,0,1.0,Executive,20767.498806690735,1
+42.0,Self Enquiry,1,9.0,Salaried,Female,3,6.0,Basic,3.0,Married,6.0,1,3,0,2.0,Executive,21456.0,1
+40.0,Company Invited,3,34.0,Salaried,Male,2,5.0,Standard,5.0,Married,4.0,0,5,1,0.0,Senior Manager,25932.0,0
+37.0,Company Invited,1,25.0,Salaried,Male,3,2.0,Basic,3.0,Married,6.0,0,5,1,2.0,Executive,22366.0,0
+32.0,Self Enquiry,1,31.0,Salaried,Male,2,3.0,Basic,3.0,Single,2.0,1,5,1,0.0,Executive,17795.0,1
+35.74108623562991,Company Invited,2,9.0,Salaried,Female,3,5.374108623562991,Basic,3.0,Single,3.4964344942519636,0,4,0,1.625891376437009,Executive,21460.38123963506,1
+19.214487216800965,Company Invited,3,12.357478694668275,Small Business,Male,3,3.982126065266586,Basic,3.982126065266586,Married,2.982126065266586,1,3,0,1.0,Executive,20557.09031001874,1
+43.30121008951161,Self Enquiry,1,21.06559103154523,Large Business,Female,2,1.5502016815852686,Basic,4.633198878943154,Married,1.0,0,1,0,0.8165994394715771,Executive,17384.248991592074,1
+45.0,Self Enquiry,1,10.0,Salaried,Male,3,4.0,Basic,5.0,Divorced,6.0,0,5,1,2.0,Executive,21040.0,1
+43.0,Company Invited,1,36.0,Salaried,Female,4,4.0,Deluxe,3.0,Married,4.0,0,3,1,2.0,Manager,23234.0,0
+29.0,Company Invited,1,7.0,Small Business,Male,3,5.0,Basic,4.0,Married,3.0,0,4,1,1.0,Executive,21274.0,1
+34.0,Self Enquiry,3,16.0,Small Business,Female,4,4.0,Deluxe,5.0,Unmarried,2.0,1,3,0,2.0,Manager,26902.0,1
+37.0,Self Enquiry,1,34.0,Small Business,Male,4,4.0,Deluxe,3.0,Divorced,8.0,0,3,1,1.0,Manager,23915.0,0
+34.9862107444796,Company Invited,3,25.95863223343881,Small Business,Female,4,3.013789255520397,Deluxe,3.0275785110407942,Unmarried,2.068946277601986,0,2,1,2.9724214889592058,Manager,23982.275785110407,1
+40.0,Self Enquiry,1,7.0,Salaried,Female,4,5.0,Super Deluxe,3.0,Divorced,3.0,0,3,0,2.0,AVP,31420.0,0
+26.0,Self Enquiry,3,11.0,Salaried,Female,1,4.0,Basic,3.0,Single,1.0,0,1,0,0.0,Executive,17966.0,0
+42.21674315041436,Company Invited,2,27.288990867219148,Salaried,Female,3,4.0,Basic,3.927752283195213,Single,3.144495433609574,1,4,0,2.927752283195213,Executive,21819.5172020529,1
+18.0,Company Invited,3,11.0,Small Business,Male,3,3.0,Basic,4.0,Single,2.0,1,4,1,2.0,Executive,16878.0,1
+36.63958951880263,Self Enquiry,1,27.548240177923248,Salaried,Female,3,4.893401746866228,Deluxe,3.0,Married,4.680205240598685,1,4,0,1.2131965062675436,Manager,24602.2080654913,1
+37.0,Company Invited,1,8.0,Salaried,Male,3,4.0,Deluxe,3.0,Married,6.0,0,2,0,1.0,Manager,20163.0,0
+30.0,Company Invited,3,32.0,Small Business,Female,2,4.0,Deluxe,5.0,Unmarried,6.0,0,1,1,1.0,Manager,21696.0,1
+46.0,Self Enquiry,1,6.0,Small Business,Male,3,3.0,Standard,5.0,Married,1.0,0,1,0,2.0,Senior Manager,24396.0,0
+31.0,Self Enquiry,1,6.0,Small Business,Male,2,3.0,Basic,4.0,Single,2.0,0,3,1,0.0,Executive,17501.0,0
+46.0,Self Enquiry,1,13.0,Salaried,Male,3,4.0,Standard,5.0,Divorced,6.0,1,3,0,1.0,Senior Manager,31923.0,0
+52.0,Self Enquiry,1,7.0,Salaried,Male,4,4.0,Basic,3.0,Divorced,3.0,0,4,1,1.0,Executive,21401.0,0
+48.0,Company Invited,3,16.0,Salaried,Male,3,6.0,Super Deluxe,3.0,Married,2.0,0,5,1,2.0,AVP,31614.0,1
+35.0,Company Invited,3,11.0,Small Business,Female,4,4.0,Deluxe,3.0,Married,2.0,0,1,0,1.0,Manager,25216.0,0
+41.87557653832621,Self Enquiry,3,18.009875741535907,Salaried,Male,2,4.303489065953399,King,3.0,Divorced,2.6517445329766995,1,3,1,1.0,Manager,29011.009875741536,1
+30.0,Self Enquiry,3,16.0,Small Business,Male,3,4.0,Deluxe,3.0,Divorced,2.0,0,2,1,0.0,Manager,21578.0,0
+39.14660165646179,Company Invited,1,17.28665041411545,Salaried,Male,3,3.713349585884552,Standard,3.573300828230895,Married,5.993447101191867,0,3,1,2.426699171769105,Manager,28735.172813251695,1
+36.0,Company Invited,1,18.0,Small Business,Male,4,5.0,Standard,5.0,Married,4.0,1,5,1,3.0,Senior Manager,28562.0,0
+32.0,Self Enquiry,1,11.0,Salaried,Female,3,4.0,Deluxe,4.0,Married,4.0,0,3,1,0.0,Manager,20878.0,0
+40.0,Self Enquiry,3,22.0,Small Business,Male,4,4.0,Super Deluxe,5.0,Single,2.0,0,1,1,3.0,AVP,32019.0,0
+46.0,Self Enquiry,1,27.0,Small Business,Female,3,3.0,Deluxe,4.0,Married,5.0,0,3,1,2.0,Manager,23926.0,1
+41.0,Self Enquiry,3,6.0,Small Business,Male,2,2.0,Standard,5.0,Divorced,2.0,0,3,1,1.0,Senior Manager,23392.0,0
+38.0,Self Enquiry,3,15.0,Small Business,Male,3,4.0,Basic,4.0,Divorced,1.0,0,4,0,0.0,Executive,17899.0,0
+34.0,Company Invited,3,7.0,Salaried,Female,3,2.0,Deluxe,5.0,Married,4.0,0,3,0,2.0,Manager,24054.0,0
+22.24839600377538,Self Enquiry,1,17.99358401510152,Salaried,Female,3,5.082798667925126,Basic,4.8344026641497475,Married,3.0,0,2,0,2.0,Executive,20105.50901484159,1
+36.0,Self Enquiry,3,22.0,Small Business,Female,3,4.0,Deluxe,5.0,Divorced,5.0,0,5,1,0.0,Manager,20647.0,0
+43.0,Company Invited,1,16.0,Salaried,Female,2,3.0,Basic,3.0,Single,1.0,0,5,0,0.0,Executive,17455.0,0
+21.0,Self Enquiry,3,9.0,Small Business,Female,3,5.0,Basic,3.0,Single,3.0,0,4,0,2.0,Executive,20722.0,1
+30.0,Company Invited,2,14.0,Salaried,Female,3,4.0,Basic,3.0,Married,7.0,0,5,1,2.0,Executive,17180.0,1
+42.0,Self Enquiry,3,7.0,Salaried,Female,4,4.0,Deluxe,3.0,Unmarried,2.0,1,2,1,1.0,Manager,24671.0,1
+29.381978241441995,Self Enquiry,3,28.707898991838473,Salaried,Female,2,3.9775306916798825,Standard,4.977530691679883,Married,2.0898772332804696,0,2,0,1.0224693083201175,Senior Manager,22335.50567521696,1
+26.432369743092977,Company Invited,3,20.459421845855783,Small Business,Male,3,2.5135260513814046,Basic,3.0,Single,2.009017367587603,0,3,0,1.009017367587603,Executive,20296.432369743092,1
+30.0,Self Enquiry,1,34.0,Small Business,Female,4,4.0,Deluxe,3.0,Divorced,6.0,0,2,1,1.0,Manager,23013.0,0
+36.0,Self Enquiry,1,11.0,Salaried,Female,2,3.0,Standard,5.0,Married,5.0,0,4,1,1.0,Senior Manager,23008.0,0
+31.0,Self Enquiry,1,10.0,Large Business,Female,3,4.0,Basic,5.0,Unmarried,7.0,1,4,0,1.0,Executive,21335.0,1
+43.378019023117346,Self Enquiry,2,14.319565758388771,Salaried,Female,2,4.924396195376531,Deluxe,3.0,Single,1.0,0,1,0,0.0,Manager,20348.646133161823,1
+35.0,Self Enquiry,3,9.0,Salaried,Male,3,3.0,Standard,3.0,Married,7.0,0,5,0,1.0,Senior Manager,22823.0,0
+47.0,Self Enquiry,3,10.0,Large Business,Female,3,2.0,Super Deluxe,5.0,Married,4.0,0,3,1,1.0,AVP,31903.0,0
+35.0,Company Invited,1,10.0,Salaried,Male,3,5.0,Basic,3.0,Married,5.0,0,1,0,1.0,Executive,21657.0,0
+59.0,Company Invited,3,9.0,Small Business,Male,3,4.0,Super Deluxe,4.0,Married,6.0,0,4,1,1.0,AVP,21383.0,0
+26.0,Self Enquiry,1,29.0,Salaried,Female,2,3.0,Basic,3.0,Married,2.0,0,3,0,0.0,Executive,17886.0,0
+50.0,Self Enquiry,1,35.0,Salaried,Male,2,4.0,Super Deluxe,3.0,Married,1.0,0,5,1,1.0,AVP,32046.0,0
+22.659376767254997,Company Invited,1,17.967046097183633,Small Business,Female,3,3.758238475704091,Basic,4.516476951408182,Married,2.0,0,3,0,0.7582384757040913,Executive,17602.41761524296,1
+38.0,Self Enquiry,1,15.0,Salaried,Female,3,3.0,Basic,3.0,Single,2.0,0,1,1,2.0,Executive,17288.0,0
+39.95859499420726,Company Invited,3,13.747525281317785,Salaried,Male,3,3.386588610789292,Deluxe,3.0,Married,3.159765832367877,0,2,0,1.6134113892107078,Manager,23393.118360826575,1
+39.0,Self Enquiry,3,10.0,Salaried,Male,3,4.0,Deluxe,3.0,Unmarried,2.0,1,3,1,2.0,Manager,25539.0,0
+41.0,Self Enquiry,3,7.0,Small Business,Male,3,6.0,Deluxe,3.0,Married,4.0,1,3,1,1.0,Manager,26135.0,0
+29.21434402267955,Self Enquiry,1,12.571311954640896,Large Business,Female,2,3.107172011339776,Basic,3.107172011339776,Married,3.892827988660224,0,3,0,0.107172011339776,Executive,31067.19883398992,1
+51.19568389325091,Company Invited,2,13.226721668536104,Salaried,Female,3,3.871120278089351,Basic,3.0,Married,3.613360834268052,0,3,1,2.613360834268052,AVP,27129.79958748598,1
+35.0,Company Invited,3,8.0,Salaried,Female,3,6.0,Basic,3.0,Unmarried,3.0,0,3,0,2.0,Executive,23122.0,1
+41.0,Company Invited,1,11.0,Salaried,Male,3,4.0,Basic,5.0,Married,7.0,0,3,1,0.0,Executive,17107.0,1
+29.0,Company Invited,1,6.0,Salaried,Male,3,1.0,Deluxe,3.0,Unmarried,1.0,1,3,0,1.0,Manager,21294.0,0
+29.0,Self Enquiry,1,29.0,Salaried,Male,2,3.0,Basic,3.0,Single,1.0,0,3,0,0.0,Executive,17201.0,0
+37.0,Company Invited,3,17.0,Small Business,Male,3,4.0,Standard,3.0,Single,3.0,0,2,1,2.0,Senior Manager,28658.0,0
+33.0,Self Enquiry,1,8.0,Salaried,Female,2,3.0,Basic,5.0,Divorced,1.0,0,3,1,0.9343670147690148,Executive,17707.0,1
+35.0,Company Invited,1,9.0,Salaried,Male,4,4.0,Deluxe,3.0,Unmarried,4.0,0,4,1,3.0,Manager,22711.0,0
+39.0,Company Invited,1,6.0,Salaried,Male,2,3.0,King,3.0,Married,2.0,1,3,0,1.0,VP,34197.0,0
+36.0,Self Enquiry,1,12.0,Salaried,Male,2,3.0,Basic,3.0,Married,1.0,0,5,1,1.0,Executive,18210.0,0
+27.0,Self Enquiry,1,12.0,Salaried,Male,2,4.0,Basic,3.0,Married,2.0,0,1,1,1.0,Executive,17539.0,0
+39.0,Company Invited,1,15.0,Small Business,Female,3,5.0,Deluxe,4.0,Married,3.0,1,1,1,1.0,Manager,20811.0,0
+29.0,Self Enquiry,3,16.0,Small Business,Male,2,3.0,Basic,4.0,Married,2.0,0,2,0,1.0,Executive,17297.0,0
+38.0,Company Invited,1,32.0,Small Business,Female,4,4.0,Deluxe,3.0,Divorced,5.0,1,3,1,2.0,Manager,23127.0,0
+38.0,Self Enquiry,1,17.0,Small Business,Female,4,4.0,Basic,5.0,Married,8.0,0,1,1,3.0,Executive,22130.0,0
+25.0,Self Enquiry,3,19.0,Small Business,Male,2,3.0,Basic,3.0,Divorced,2.0,0,3,1,0.0,Executive,17096.0,0
+34.0,Self Enquiry,1,17.0,Small Business,Male,3,6.0,Basic,3.0,Married,2.0,0,5,0,1.0,Executive,22086.0,1
+25.0,Company Invited,1,16.0,Small Business,Male,3,4.0,Basic,5.0,Unmarried,4.0,1,3,0,2.0,Executive,21850.0,1
+42.0,Company Invited,2,8.0,Small Business,Male,3,1.0,Deluxe,5.0,Divorced,1.0,0,2,0,2.0,Manager,21272.0,0
+36.21825388786507,Self Enquiry,3,16.0,Salaried,Male,2,4.218253887865064,King,5.0,Married,1.2182538878650642,0,4,0,0.2182538878650641,Manager,22092.035715009213,1
+27.047931623128008,Company Invited,1,22.8952068376872,Salaried,Female,2,2.7904136753743987,Basic,3.2095863246256013,Married,1.104793162312801,0,4,0,0.8952068376871993,Executive,17741.209586324625,1
+38.03771979629037,Self Enquiry,2,11.481140101854818,Large Business,Male,2,3.0,Basic,3.9622802037096343,Divorced,4.481140101854818,0,2,0,0.5188598981451825,Executive,17079.745178675887,1
+55.0,Self Enquiry,3,19.0,Small Business,Male,2,1.0,Super Deluxe,3.0,Single,7.0,1,3,1,1.0,AVP,28695.0,1
+30.0,Self Enquiry,1,8.0,Small Business,Male,2,4.0,Basic,3.0,Single,1.0,0,4,0,0.0,Executive,17720.0,0
+23.0,Self Enquiry,1,10.0,Salaried,Female,3,4.0,Deluxe,3.0,Divorced,2.0,1,5,1,2.0,Manager,22849.0,1
+23.0,Self Enquiry,1,15.0,Small Business,Male,2,3.0,Basic,5.0,Married,2.0,0,3,1,0.0,Executive,17500.0,0
+22.0,Self Enquiry,1,17.0,Salaried,Female,3,5.0,Basic,5.0,Single,3.0,0,3,1,1.0,Executive,20094.0,1
+54.0,Company Invited,1,6.0,Salaried,Female,2,3.0,Standard,3.0,Married,1.0,0,5,1,1.0,Senior Manager,25502.0,0
+37.0,Self Enquiry,1,16.0,Small Business,Male,3,5.0,Deluxe,4.0,Married,4.0,1,4,0,2.0,Manager,27525.0,0
+30.0,Self Enquiry,1,30.0,Salaried,Male,3,2.0,Basic,3.0,Divorced,3.0,0,2,1,2.0,Executive,21378.0,0
+37.19383521400533,Company Invited,1,16.317184895645084,Salaried,Female,3,2.9823786169086066,King,3.0,Married,6.982378616908607,0,3,0,2.0,Manager,25048.47577734347,1
+58.0,Self Enquiry,1,15.0,Small Business,Female,3,4.0,Basic,4.0,Divorced,5.0,1,2,1,0.0,Executive,18346.0,0
+32.0,Company Invited,1,36.0,Small Business,Male,4,5.0,Basic,4.0,Unmarried,2.0,0,3,0,3.0,Executive,22157.0,1
+32.04878053865516,Company Invited,2,17.04878053865516,Salaried,Male,3,2.9512194613448397,Basic,3.95121946134484,Married,2.9512194613448397,0,3,0,1.47560973067242,Executive,23379.29268323193,1
+27.0,Company Invited,3,36.0,Small Business,Male,4,6.0,Deluxe,5.0,Unmarried,2.0,0,3,0,1.0,Manager,23647.0,1
+32.099981358151894,Self Enquiry,3,25.800223702177263,Salaried,Female,3,5.700055925544316,Deluxe,3.19996271630379,Divorced,4.60007456739242,1,3,0,0.9000186418481051,Manager,23235.700242344024,1
+45.0,Self Enquiry,1,15.0,Salaried,Male,4,2.0,Basic,3.0,Divorced,4.0,1,3,1,3.0,Executive,21496.0,0
+36.756070589121656,Self Enquiry,1,8.861785621013517,Large Business,Male,4,5.0,Basic,3.2764287579729654,Single,8.0,0,3,0,2.8617856210135173,Executive,20766.617856210138,1
+38.0,Company Invited,1,9.0,Salaried,Male,4,5.0,Deluxe,3.0,Married,7.0,0,1,1,3.0,Manager,23841.0,0
+26.0,Company Invited,1,6.0,Salaried,Female,2,3.0,Deluxe,4.0,Married,2.0,0,5,1,1.0,Manager,21397.0,0
+55.0,Company Invited,1,27.0,Salaried,Female,3,4.0,Deluxe,3.0,Unmarried,5.0,0,4,1,1.0,Manager,23547.0,0
+56.0,Self Enquiry,1,6.0,Salaried,Female,2,3.0,Basic,5.0,Divorced,3.0,0,5,1,1.0,Executive,17066.0,0
+47.0,Company Invited,1,35.0,Salaried,Male,2,3.0,Standard,4.0,Married,2.0,1,3,1,0.0,Senior Manager,26849.0,1
+22.0,Company Invited,3,7.0,Large Business,Female,3,5.0,Basic,4.0,Single,3.0,1,5,1,2.9911686261369765,Executive,20852.0,1
+42.0,Company Invited,1,14.0,Salaried,Male,3,3.0,King,3.0,Married,2.0,0,5,1,1.0,VP,33430.0,0
+38.0,Company Invited,1,12.0,Large Business,Male,3,2.0,Basic,3.0,Unmarried,2.0,0,5,1,1.0,Executive,22178.0,0
+31.0,Self Enquiry,3,11.0,Small Business,Female,4,5.0,Deluxe,4.0,Married,3.0,1,3,1,1.0,Manager,23887.0,0
+42.0,Self Enquiry,1,30.0,Small Business,Male,2,3.0,Standard,5.0,Married,2.0,1,1,1,0.0,Senior Manager,22406.0,0
+31.980667497614377,Company Invited,1,15.463025577106588,Salaried,Male,3,3.4630255771065865,Basic,5.0,Married,4.5369744228934135,0,3,0,2.0,Executive,21873.089900184415,1
+29.0,Self Enquiry,1,16.0,Small Business,Female,4,4.0,Basic,3.0,Married,7.0,0,3,1,2.0,Executive,21055.0,0
+35.0,Self Enquiry,3,23.0,Salaried,Male,3,3.0,Deluxe,5.0,Divorced,4.0,1,3,1,1.0,Manager,23966.0,0
+24.0,Self Enquiry,1,33.0,Salaried,Male,3,4.0,Basic,3.0,Married,3.0,0,1,0,2.0,Executive,21582.0,0
+22.449917221986592,Self Enquiry,2,8.677796172891869,Salaried,Female,3,4.838898086445934,Basic,3.0,Single,2.8388980864459343,0,3,0,1.0,Executive,20724.25542678976,1
+51.0,Self Enquiry,1,6.0,Salaried,Male,3,3.0,Basic,3.0,Married,2.0,0,4,1,0.0,Executive,17723.0,0
+26.0,Self Enquiry,3,11.0,Small Business,Male,3,5.0,Deluxe,5.0,Married,3.0,0,3,1,2.0,Manager,22934.0,0
+31.0,Self Enquiry,3,14.0,Small Business,Male,3,4.0,Basic,4.0,Unmarried,2.0,0,2,1,1.0,Executive,21661.0,0
+35.0,Company Invited,3,13.0,Small Business,Female,3,6.0,Basic,3.0,Married,2.0,0,4,0,2.0,Executive,21029.0,1
+26.0,Self Enquiry,1,9.0,Small Business,Male,4,2.0,Basic,5.0,Unmarried,2.0,0,2,1,3.0,Executive,22102.0,0
+39.0,Self Enquiry,3,30.0,Small Business,Female,2,4.0,Super Deluxe,3.0,Married,1.0,0,1,1,1.0,AVP,27031.0,0
+39.0,Self Enquiry,3,21.0,Salaried,Male,4,4.0,Deluxe,4.0,Married,2.0,0,5,1,3.0,Manager,28602.0,0
+32.0,Company Invited,1,19.0,Salaried,Female,3,4.0,Basic,4.0,Divorced,2.0,0,5,0,0.0,Executive,17743.0,0
+28.57882486529433,Self Enquiry,1,15.87966424722695,Salaried,Female,3,3.939832123613475,Basic,5.0,Married,6.699160618067376,1,4,0,0.0601678763865248,Executive,17403.638992741682,1
